@@ -1,0 +1,23 @@
+# secrets — never commit
+.env
+
+# environment
+.venv/
+
+# packed dataset binaries + checkpoints (large, regenerable from scripts)
+*.bin
+data/*.json
+!data/*.py
+run_acoustic/
+run_vocoder/
+checkpoints/
+*.pt
+*.onnx
+
+# synthesized audio scratch
+*.wav
+
+# python
+__pycache__/
+*.pyc
+.DS_Store

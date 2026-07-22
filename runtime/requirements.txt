@@ -1,0 +1,10 @@
+# Local inference / ONNX export on the Intel MacBook (runtime/*.py + the smoke
+# tests), NOT Kaggle training. Pins matter here, same reasons Gedit documents:
+# PyPI has no torch wheel past 2.2.2 for Intel macOS (x86_64 macOS was dropped
+# after that), and numpy<2 avoids a "compiled against numpy 1.x" ABI crash
+# against that torch build. These are the exact versions the VoxG .venv uses.
+torch==2.2.2
+numpy<2
+phonemizer
+onnx
+onnxruntime

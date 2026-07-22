@@ -1,0 +1,2967 @@
+[
+  {
+    "id": "p0001",
+    "text": "Zamknij okno, robi się zimno.",
+    "source": "generated"
+  },
+  {
+    "id": "p0002",
+    "text": "Chodźmy już, zaraz się ściemni.",
+    "source": "generated"
+  },
+  {
+    "id": "p0003",
+    "text": "Podaj mi sól, proszę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0004",
+    "text": "Włącz światło w kuchni.",
+    "source": "generated"
+  },
+  {
+    "id": "p0005",
+    "text": "Kawa czy herbata?",
+    "source": "generated"
+  },
+  {
+    "id": "p0006",
+    "text": "Zaraz wracam, czekaj tu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0007",
+    "text": "Deszcz pada od rana.",
+    "source": "generated"
+  },
+  {
+    "id": "p0008",
+    "text": "To był długi dzień.",
+    "source": "generated"
+  },
+  {
+    "id": "p0009",
+    "text": "Masz chwilę na rozmowę?",
+    "source": "generated"
+  },
+  {
+    "id": "p0010",
+    "text": "Nie zdążę, przepraszam.",
+    "source": "generated"
+  },
+  {
+    "id": "p0011",
+    "text": "Świetnie ci poszło!",
+    "source": "generated"
+  },
+  {
+    "id": "p0012",
+    "text": "Ciii, dziecko śpi.",
+    "source": "generated"
+  },
+  {
+    "id": "p0013",
+    "text": "Zjedz coś, jesteś głodny.",
+    "source": "generated"
+  },
+  {
+    "id": "p0014",
+    "text": "Gdzie są moje klucze?",
+    "source": "generated"
+  },
+  {
+    "id": "p0015",
+    "text": "Wyłącz to, proszę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0016",
+    "text": "Chyba się spóźnimy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0017",
+    "text": "Trzymaj się ciepło.",
+    "source": "generated"
+  },
+  {
+    "id": "p0018",
+    "text": "To nie moja wina.",
+    "source": "generated"
+  },
+  {
+    "id": "p0019",
+    "text": "Zamknij drzwi za sobą.",
+    "source": "generated"
+  },
+  {
+    "id": "p0020",
+    "text": "Uważaj na schodach.",
+    "source": "generated"
+  },
+  {
+    "id": "p0021",
+    "text": "Może innym razem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0022",
+    "text": "Wszystko będzie dobrze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0023",
+    "text": "Nie mam pojęcia.",
+    "source": "generated"
+  },
+  {
+    "id": "p0024",
+    "text": "Rusz się, jest późno!",
+    "source": "generated"
+  },
+  {
+    "id": "p0025",
+    "text": "Zgaś światło, śpię.",
+    "source": "generated"
+  },
+  {
+    "id": "p0026",
+    "text": "Idziesz ze mną?",
+    "source": "generated"
+  },
+  {
+    "id": "p0027",
+    "text": "To już wszystko?",
+    "source": "generated"
+  },
+  {
+    "id": "p0028",
+    "text": "Poczekaj chwilę tutaj.",
+    "source": "generated"
+  },
+  {
+    "id": "p0029",
+    "text": "Nic mi nie jest.",
+    "source": "generated"
+  },
+  {
+    "id": "p0030",
+    "text": "Śpieszy mi się bardzo.",
+    "source": "generated"
+  },
+  {
+    "id": "p0031",
+    "text": "Zjadłbym coś słodkiego.",
+    "source": "generated"
+  },
+  {
+    "id": "p0032",
+    "text": "Weź parasol na wszelki wypadek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0033",
+    "text": "Odezwij się później.",
+    "source": "generated"
+  },
+  {
+    "id": "p0034",
+    "text": "Zamawiamy pizzę czy gotujemy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0035",
+    "text": "To zależy od pogody.",
+    "source": "generated"
+  },
+  {
+    "id": "p0036",
+    "text": "Chyba mam katar.",
+    "source": "generated"
+  },
+  {
+    "id": "p0037",
+    "text": "Nie żartuj sobie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0038",
+    "text": "Daj mi znać jutro.",
+    "source": "generated"
+  },
+  {
+    "id": "p0039",
+    "text": "Wieczorem idziemy na spacer, jeśli przestanie padać.",
+    "source": "generated"
+  },
+  {
+    "id": "p0040",
+    "text": "Sąsiedzi znowu urządzają remont w sobotę rano.",
+    "source": "generated"
+  },
+  {
+    "id": "p0041",
+    "text": "Zanim wyjdziesz, sprawdź proszę czy zgasiłeś światło.",
+    "source": "generated"
+  },
+  {
+    "id": "p0042",
+    "text": "Byliśmy wczoraj na koncercie, było naprawdę wspaniale.",
+    "source": "generated"
+  },
+  {
+    "id": "p0043",
+    "text": "Zbliża się burza, lepiej zamknijmy wszystkie okna.",
+    "source": "generated"
+  },
+  {
+    "id": "p0044",
+    "text": "Sąsiad pożyczył mi drabinę, żeby przyciąć gałęzie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0045",
+    "text": "W piątki zawsze zamawiamy coś na wynos.",
+    "source": "generated"
+  },
+  {
+    "id": "p0046",
+    "text": "Babcia piecze najlepsze pierogi w całej rodzinie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0047",
+    "text": "Musimy jeszcze kupić prezent na urodziny cioci.",
+    "source": "generated"
+  },
+  {
+    "id": "p0048",
+    "text": "Zgubiłam się w tym nowym centrum handlowym.",
+    "source": "generated"
+  },
+  {
+    "id": "p0049",
+    "text": "Chciałabym pojechać kiedyś w góry na dłużej.",
+    "source": "generated"
+  },
+  {
+    "id": "p0050",
+    "text": "Zawsze zapominam, gdzie zaparkowałem samochód.",
+    "source": "generated"
+  },
+  {
+    "id": "p0051",
+    "text": "Naprawa pralki zajęła serwisantowi zaledwie pół godziny.",
+    "source": "generated"
+  },
+  {
+    "id": "p0052",
+    "text": "Nauczycielka pochwaliła cały zespół za świetny projekt.",
+    "source": "generated"
+  },
+  {
+    "id": "p0053",
+    "text": "Zanim wyjdziemy, upewnij się że wyłączyłeś żelazko.",
+    "source": "generated"
+  },
+  {
+    "id": "p0054",
+    "text": "Zeszłej zimy śniegu było naprawdę bardzo dużo.",
+    "source": "generated"
+  },
+  {
+    "id": "p0055",
+    "text": "Musimy jeszcze posprzątać garaż przed przyjazdem gości.",
+    "source": "generated"
+  },
+  {
+    "id": "p0056",
+    "text": "Codziennie wieczorem sprawdzam, czy zamknąłem wszystkie drzwi.",
+    "source": "generated"
+  },
+  {
+    "id": "p0057",
+    "text": "Musimy przemyśleć jeszcze raz cały plan podróży.",
+    "source": "generated"
+  },
+  {
+    "id": "p0058",
+    "text": "Musisz jeszcze dziś oddać książki do biblioteki.",
+    "source": "generated"
+  },
+  {
+    "id": "p0059",
+    "text": "Wieczorami lubię czytać coś lekkiego przed snem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0060",
+    "text": "Trzeba będzie wymienić żarówkę na korytarzu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0061",
+    "text": "Silnik rakiety zapalił się dokładnie o czasie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0062",
+    "text": "Trzeba jeszcze skalibrować czujniki, zanim wystartujemy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0063",
+    "text": "Asystent głosowy zapamiętał moje ulubione stacje radiowe.",
+    "source": "generated"
+  },
+  {
+    "id": "p0064",
+    "text": "Czy zamknąłeś okno w kuchni?",
+    "source": "generated"
+  },
+  {
+    "id": "p0065",
+    "text": "Czy pamiętasz, gdzie zostawiłeś klucze?",
+    "source": "generated"
+  },
+  {
+    "id": "p0066",
+    "text": "Zjadłeś już śniadanie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0067",
+    "text": "Czy dziś jest jakaś burza zapowiadana?",
+    "source": "generated"
+  },
+  {
+    "id": "p0068",
+    "text": "Czy mogę prosić o szklankę wody?",
+    "source": "generated"
+  },
+  {
+    "id": "p0069",
+    "text": "Widziałeś może mój telefon?",
+    "source": "generated"
+  },
+  {
+    "id": "p0070",
+    "text": "Jesteś pewien, że to dobra droga?",
+    "source": "generated"
+  },
+  {
+    "id": "p0071",
+    "text": "Czy wyłączyłaś żelazko przed wyjściem?",
+    "source": "generated"
+  },
+  {
+    "id": "p0072",
+    "text": "Zdążymy jeszcze na ten autobus?",
+    "source": "generated"
+  },
+  {
+    "id": "p0073",
+    "text": "Czy słyszałeś, co się stało wczoraj wieczorem?",
+    "source": "generated"
+  },
+  {
+    "id": "p0074",
+    "text": "Masz może przy sobie długopis?",
+    "source": "generated"
+  },
+  {
+    "id": "p0075",
+    "text": "Czy to znaczy, że jednak nie jedziemy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0076",
+    "text": "Czy mogłabyś mi pomóc z tą walizką?",
+    "source": "generated"
+  },
+  {
+    "id": "p0077",
+    "text": "Czy skończyłeś już odrabiać lekcje?",
+    "source": "generated"
+  },
+  {
+    "id": "p0078",
+    "text": "Podoba ci się ta nowa piosenka?",
+    "source": "generated"
+  },
+  {
+    "id": "p0079",
+    "text": "Czy mamy jeszcze mleko w lodówce?",
+    "source": "generated"
+  },
+  {
+    "id": "p0080",
+    "text": "Dasz radę przyjść trochę wcześniej?",
+    "source": "generated"
+  },
+  {
+    "id": "p0081",
+    "text": "Czy on naprawdę tak powiedział?",
+    "source": "generated"
+  },
+  {
+    "id": "p0082",
+    "text": "Czy zabraliście parasole na wszelki wypadek?",
+    "source": "generated"
+  },
+  {
+    "id": "p0083",
+    "text": "Byłaś kiedyś w górach zimą?",
+    "source": "generated"
+  },
+  {
+    "id": "p0084",
+    "text": "Umiesz jeszcze zagrać ten utwór z pamięci?",
+    "source": "generated"
+  },
+  {
+    "id": "p0085",
+    "text": "Czy zdążysz odebrać paczkę przed piątą?",
+    "source": "generated"
+  },
+  {
+    "id": "p0086",
+    "text": "Wiesz, o której godzinie zamykają sklep?",
+    "source": "generated"
+  },
+  {
+    "id": "p0087",
+    "text": "Czy mogę na chwilę pożyczyć twój rower?",
+    "source": "generated"
+  },
+  {
+    "id": "p0088",
+    "text": "Sprawdziłeś prognozę pogody na jutro?",
+    "source": "generated"
+  },
+  {
+    "id": "p0089",
+    "text": "Chcesz jeszcze kawy, czy wystarczy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0090",
+    "text": "Czy to bezpieczne, żeby tam wchodzić?",
+    "source": "generated"
+  },
+  {
+    "id": "p0091",
+    "text": "Byłeś już kiedyś na koncercie na żywo?",
+    "source": "generated"
+  },
+  {
+    "id": "p0092",
+    "text": "Czy mógłbyś mówić trochę wolniej?",
+    "source": "generated"
+  },
+  {
+    "id": "p0093",
+    "text": "Zdążyłaś zjeść coś przed wyjściem?",
+    "source": "generated"
+  },
+  {
+    "id": "p0094",
+    "text": "Czy pies już wyszedł na spacer?",
+    "source": "generated"
+  },
+  {
+    "id": "p0095",
+    "text": "Wierzysz w to, co on mówi?",
+    "source": "generated"
+  },
+  {
+    "id": "p0096",
+    "text": "Czy to na pewno działa poprawnie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0097",
+    "text": "Zamówiliście już taksówkę na lotnisko?",
+    "source": "generated"
+  },
+  {
+    "id": "p0098",
+    "text": "Czy widziałaś moje okulary gdzieś w salonie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0099",
+    "text": "Skończyłeś już czytać tę książkę?",
+    "source": "generated"
+  },
+  {
+    "id": "p0100",
+    "text": "Czy powinniśmy zabrać ze sobą namiot?",
+    "source": "generated"
+  },
+  {
+    "id": "p0101",
+    "text": "Da się to jeszcze naprawić?",
+    "source": "generated"
+  },
+  {
+    "id": "p0102",
+    "text": "Czy wiesz, jak dojechać stąd do centrum?",
+    "source": "generated"
+  },
+  {
+    "id": "p0103",
+    "text": "Zamknęłaś drzwi na klucz?",
+    "source": "generated"
+  },
+  {
+    "id": "p0104",
+    "text": "Czy słyszysz ten dziwny dźwięk z silnika?",
+    "source": "generated"
+  },
+  {
+    "id": "p0105",
+    "text": "Masz ochotę na spacer po kolacji?",
+    "source": "generated"
+  },
+  {
+    "id": "p0106",
+    "text": "Czy zdążymy dokończyć to przed zmrokiem?",
+    "source": "generated"
+  },
+  {
+    "id": "p0107",
+    "text": "Wysłałeś już tę wiadomość do klienta?",
+    "source": "generated"
+  },
+  {
+    "id": "p0108",
+    "text": "Czy to wystarczy, żeby przejść dalej?",
+    "source": "generated"
+  },
+  {
+    "id": "p0109",
+    "text": "Widziałeś już nowy odcinek tego serialu?",
+    "source": "generated"
+  },
+  {
+    "id": "p0110",
+    "text": "Czy mogę zapisać się na jutrzejsze zajęcia?",
+    "source": "generated"
+  },
+  {
+    "id": "p0111",
+    "text": "Czy silnik rakiety wystartował zgodnie z planem?",
+    "source": "generated"
+  },
+  {
+    "id": "p0112",
+    "text": "Skalibrowałeś już czujniki w dronie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0113",
+    "text": "Gdzie zostawiłeś swoje buty?",
+    "source": "generated"
+  },
+  {
+    "id": "p0114",
+    "text": "Kiedy wracasz z pracy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0115",
+    "text": "Dlaczego tak długo cię nie było?",
+    "source": "generated"
+  },
+  {
+    "id": "p0116",
+    "text": "Jak dojść stąd na dworzec?",
+    "source": "generated"
+  },
+  {
+    "id": "p0117",
+    "text": "Co przygotujemy na kolację?",
+    "source": "generated"
+  },
+  {
+    "id": "p0118",
+    "text": "Ile to będzie kosztować?",
+    "source": "generated"
+  },
+  {
+    "id": "p0119",
+    "text": "Kto zostawił otwarte drzwi?",
+    "source": "generated"
+  },
+  {
+    "id": "p0120",
+    "text": "Czemu wyglądasz na taką zmęczoną?",
+    "source": "generated"
+  },
+  {
+    "id": "p0121",
+    "text": "Jak się nazywa ta piosenka?",
+    "source": "generated"
+  },
+  {
+    "id": "p0122",
+    "text": "Gdzie schowałeś pilota od telewizora?",
+    "source": "generated"
+  },
+  {
+    "id": "p0123",
+    "text": "Kiedy zaczyna się ten koncert?",
+    "source": "generated"
+  },
+  {
+    "id": "p0124",
+    "text": "Co powiedział lekarz na temat wyników?",
+    "source": "generated"
+  },
+  {
+    "id": "p0125",
+    "text": "Ile osób przyjdzie na urodziny?",
+    "source": "generated"
+  },
+  {
+    "id": "p0126",
+    "text": "Jak długo to jeszcze potrwa?",
+    "source": "generated"
+  },
+  {
+    "id": "p0127",
+    "text": "Dlaczego nikt nie odbiera telefonu?",
+    "source": "generated"
+  },
+  {
+    "id": "p0128",
+    "text": "Gdzie najlepiej zaparkować w centrum?",
+    "source": "generated"
+  },
+  {
+    "id": "p0129",
+    "text": "Co robimy w ten weekend?",
+    "source": "generated"
+  },
+  {
+    "id": "p0130",
+    "text": "Kto pierwszy zaproponował ten pomysł?",
+    "source": "generated"
+  },
+  {
+    "id": "p0131",
+    "text": "Jak często trzeba podlewać te kwiaty?",
+    "source": "generated"
+  },
+  {
+    "id": "p0132",
+    "text": "Ile czasu zajmuje dojazd do pracy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0133",
+    "text": "Skąd wzięliście ten pomysł na wystrój?",
+    "source": "generated"
+  },
+  {
+    "id": "p0134",
+    "text": "Dokąd właściwie jedziemy tym razem?",
+    "source": "generated"
+  },
+  {
+    "id": "p0135",
+    "text": "Czym różni się ten model od poprzedniego?",
+    "source": "generated"
+  },
+  {
+    "id": "p0136",
+    "text": "Jak duża jest ta paczka?",
+    "source": "generated"
+  },
+  {
+    "id": "p0137",
+    "text": "Kiedy najlepiej wysyłać takie zgłoszenia?",
+    "source": "generated"
+  },
+  {
+    "id": "p0138",
+    "text": "Dlaczego drukarka znowu przestała działać?",
+    "source": "generated"
+  },
+  {
+    "id": "p0139",
+    "text": "Jak nazywa się ten kompozytor?",
+    "source": "generated"
+  },
+  {
+    "id": "p0140",
+    "text": "Ile kosztuje bilet do teatru?",
+    "source": "generated"
+  },
+  {
+    "id": "p0141",
+    "text": "Gdzie kupiłeś ten wydrukowany model rakiety?",
+    "source": "generated"
+  },
+  {
+    "id": "p0142",
+    "text": "Kto uczył cię grać na pianinie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0143",
+    "text": "Jak wysoko poleciała ta rakieta?",
+    "source": "generated"
+  },
+  {
+    "id": "p0144",
+    "text": "Co trzeba zrobić, żeby zresetować to urządzenie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0145",
+    "text": "Skąd pobrałeś ten program do modelowania?",
+    "source": "generated"
+  },
+  {
+    "id": "p0146",
+    "text": "Jak brzmi hasło do sieci domowej?",
+    "source": "generated"
+  },
+  {
+    "id": "p0147",
+    "text": "Ile trwa nagrywanie jednego zdania?",
+    "source": "generated"
+  },
+  {
+    "id": "p0148",
+    "text": "Dlaczego mikrofon nagle przestał działać?",
+    "source": "generated"
+  },
+  {
+    "id": "p0149",
+    "text": "Co zrobimy, jeśli zacznie padać?",
+    "source": "generated"
+  },
+  {
+    "id": "p0150",
+    "text": "Gdzie jest najbliższy przystanek autobusowy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0151",
+    "text": "Jak szybko można nauczyć się nowego utworu?",
+    "source": "generated"
+  },
+  {
+    "id": "p0152",
+    "text": "Kiedy wypada twoje najbliższe wolne popołudnie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0153",
+    "text": "Co sądzisz o tym nowym pomyśle?",
+    "source": "generated"
+  },
+  {
+    "id": "p0154",
+    "text": "Ile jeszcze zostało nam paliwa?",
+    "source": "generated"
+  },
+  {
+    "id": "p0155",
+    "text": "Dlaczego tak późno wracasz do domu?",
+    "source": "generated"
+  },
+  {
+    "id": "p0156",
+    "text": "Jak wygląda plan na jutrzejsze popołudnie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0157",
+    "text": "Gdzie chowasz zapasowe baterie?",
+    "source": "generated"
+  },
+  {
+    "id": "p0158",
+    "text": "Ale ci się poszczęściło!",
+    "source": "generated"
+  },
+  {
+    "id": "p0159",
+    "text": "Niesamowite, udało się!",
+    "source": "generated"
+  },
+  {
+    "id": "p0160",
+    "text": "Uważaj, tam jest ślisko!",
+    "source": "generated"
+  },
+  {
+    "id": "p0161",
+    "text": "To było naprawdę wspaniałe!",
+    "source": "generated"
+  },
+  {
+    "id": "p0162",
+    "text": "Nie do wiary, że to się stało!",
+    "source": "generated"
+  },
+  {
+    "id": "p0163",
+    "text": "Jak pięknie dziś świeci słońce!",
+    "source": "generated"
+  },
+  {
+    "id": "p0164",
+    "text": "Ale zimno dzisiaj na dworze!",
+    "source": "generated"
+  },
+  {
+    "id": "p0165",
+    "text": "Wreszcie skończyliśmy ten projekt!",
+    "source": "generated"
+  },
+  {
+    "id": "p0166",
+    "text": "Co za niespodzianka, witaj!",
+    "source": "generated"
+  },
+  {
+    "id": "p0167",
+    "text": "Patrz, tam leci ptak!",
+    "source": "generated"
+  },
+  {
+    "id": "p0168",
+    "text": "Nareszcie weekend!",
+    "source": "generated"
+  },
+  {
+    "id": "p0169",
+    "text": "Ale pyszne jest to ciasto!",
+    "source": "generated"
+  },
+  {
+    "id": "p0170",
+    "text": "Uciekaj, zaraz zacznie padać grad!",
+    "source": "generated"
+  },
+  {
+    "id": "p0171",
+    "text": "Jak szybko minął ten rok!",
+    "source": "generated"
+  },
+  {
+    "id": "p0172",
+    "text": "To najlepszy koncert, na jakim byłem!",
+    "source": "generated"
+  },
+  {
+    "id": "p0173",
+    "text": "Ale bałagan w tym pokoju!",
+    "source": "generated"
+  },
+  {
+    "id": "p0174",
+    "text": "Cudownie, udało nam się na czas!",
+    "source": "generated"
+  },
+  {
+    "id": "p0175",
+    "text": "Ojej, znowu zapomniałem parasola!",
+    "source": "generated"
+  },
+  {
+    "id": "p0176",
+    "text": "Ale wysoko poleciała ta rakieta!",
+    "source": "generated"
+  },
+  {
+    "id": "p0177",
+    "text": "Świetna robota, gratulacje!",
+    "source": "generated"
+  },
+  {
+    "id": "p0178",
+    "text": "Ale głośno dziś na ulicy!",
+    "source": "generated"
+  },
+  {
+    "id": "p0179",
+    "text": "Nie wierzę, że to działa!",
+    "source": "generated"
+  },
+  {
+    "id": "p0180",
+    "text": "Jaka piękna dziś jest pogoda!",
+    "source": "generated"
+  },
+  {
+    "id": "p0181",
+    "text": "Uwaga, schody są mokre!",
+    "source": "generated"
+  },
+  {
+    "id": "p0182",
+    "text": "Ale się najedliśmy!",
+    "source": "generated"
+  },
+  {
+    "id": "p0183",
+    "text": "Wow, to naprawdę zaskakujące!",
+    "source": "generated"
+  },
+  {
+    "id": "p0184",
+    "text": "Zamknij za sobą drzwi.",
+    "source": "generated"
+  },
+  {
+    "id": "p0185",
+    "text": "Przypomnij mi jutro o spotkaniu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0186",
+    "text": "Ustaw budzik na siódmą rano.",
+    "source": "generated"
+  },
+  {
+    "id": "p0187",
+    "text": "Sprawdź pogodę na weekend.",
+    "source": "generated"
+  },
+  {
+    "id": "p0188",
+    "text": "Zadzwoń do mnie, gdy dojedziesz.",
+    "source": "generated"
+  },
+  {
+    "id": "p0189",
+    "text": "Włącz muzykę trochę ciszej.",
+    "source": "generated"
+  },
+  {
+    "id": "p0190",
+    "text": "Nie zapomnij zabrać parasola.",
+    "source": "generated"
+  },
+  {
+    "id": "p0191",
+    "text": "Odłóż telefon i chodź jeść.",
+    "source": "generated"
+  },
+  {
+    "id": "p0192",
+    "text": "Zapisz to sobie na kartce.",
+    "source": "generated"
+  },
+  {
+    "id": "p0193",
+    "text": "Przynieś mi coś do picia, proszę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0194",
+    "text": "Zaparkuj bliżej wejścia, jeśli się da.",
+    "source": "generated"
+  },
+  {
+    "id": "p0195",
+    "text": "Wyślij mi tę wiadomość jeszcze raz.",
+    "source": "generated"
+  },
+  {
+    "id": "p0196",
+    "text": "Zapomniałem parasola i teraz muszę biec przez deszcz.",
+    "source": "generated"
+  },
+  {
+    "id": "p0197",
+    "text": "Ciasto piecze się jeszcze dwadzieścia minut, więc mamy czas.",
+    "source": "generated"
+  },
+  {
+    "id": "p0198",
+    "text": "Wczoraj wieczorem oglądaliśmy film, który polecił mi kolega.",
+    "source": "generated"
+  },
+  {
+    "id": "p0199",
+    "text": "Muszę jeszcze dziś zrobić zakupy, bo lodówka świeci pustkami.",
+    "source": "generated"
+  },
+  {
+    "id": "p0200",
+    "text": "Chciałbym w końcu nauczyć się grać na pianinie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0201",
+    "text": "Autobus przyjeżdża zwykle dwie minuty przed czasem, więc się nie spóźnię.",
+    "source": "generated"
+  },
+  {
+    "id": "p0202",
+    "text": "Rodzice pytali, kiedy przyjedziemy do nich na weekend.",
+    "source": "generated"
+  },
+  {
+    "id": "p0203",
+    "text": "Wszystkie zeszyty zostawiłem w szkole, będę musiał wrócić.",
+    "source": "generated"
+  },
+  {
+    "id": "p0204",
+    "text": "Ta piosenka przypomina mi lato sprzed kilku lat.",
+    "source": "generated"
+  },
+  {
+    "id": "p0205",
+    "text": "Ciepła herbata z cytryną świetnie rozgrzewa w chłodne wieczory.",
+    "source": "generated"
+  },
+  {
+    "id": "p0206",
+    "text": "Musisz nacisnąć ten przycisk dwa razy, żeby się włączyło.",
+    "source": "generated"
+  },
+  {
+    "id": "p0207",
+    "text": "Nie mogę znaleźć okularów, chyba znowu je gdzieś zostawiłem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0208",
+    "text": "Wnuczka bardzo się cieszy na wakacje u dziadków.",
+    "source": "generated"
+  },
+  {
+    "id": "p0209",
+    "text": "Trzeba wcześniej zarezerwować stolik, bo restauracja bywa pełna.",
+    "source": "generated"
+  },
+  {
+    "id": "p0210",
+    "text": "Codziennie rano robię sobie kawę i czytam wiadomości.",
+    "source": "generated"
+  },
+  {
+    "id": "p0211",
+    "text": "Ten most zbudowano jeszcze przed drugą wojną światową.",
+    "source": "generated"
+  },
+  {
+    "id": "p0212",
+    "text": "Chłopak z sąsiedztwa uczy się grać na gitarze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0213",
+    "text": "Ptaki śpiewają najgłośniej wczesnym rankiem, zaraz po wschodzie słońca.",
+    "source": "generated"
+  },
+  {
+    "id": "p0214",
+    "text": "Trener kazał nam biegać dodatkowe okrążenie za spóźnienie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0215",
+    "text": "Ostatnio dużo pada, ogród aż lśni od wilgoci.",
+    "source": "generated"
+  },
+  {
+    "id": "p0216",
+    "text": "Sklep zamyka się o dwudziestej pierwszej w dni robocze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0217",
+    "text": "Wieczorem lepiej gasić telewizor i po prostu poczytać książkę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0218",
+    "text": "Nasz kot uwielbia spać na parapecie w słońcu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0219",
+    "text": "Codziennie rano ćwiczę gamy, zanim zabiorę się za trudniejsze utwory.",
+    "source": "generated"
+  },
+  {
+    "id": "p0220",
+    "text": "Cieszę się, że w końcu skończyliśmy ten projekt na czas.",
+    "source": "generated"
+  },
+  {
+    "id": "p0221",
+    "text": "Warto zapisać sobie ten numer, na wypadek gdyby coś się stało.",
+    "source": "generated"
+  },
+  {
+    "id": "p0222",
+    "text": "Za oknem właśnie zaczyna padać pierwszy śnieg tej zimy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0223",
+    "text": "Chciałbym w przyszłym roku wybrać się w podróż dookoła Europy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0224",
+    "text": "Zgubiliśmy się w lesie, na szczęście mieliśmy przy sobie mapę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0225",
+    "text": "Dzieci bawiły się na podwórku aż do zmroku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0226",
+    "text": "Wczoraj przez cały dzień padał deszcz ze śniegiem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0227",
+    "text": "Ten przepis na zupę dostałam od mojej babci.",
+    "source": "generated"
+  },
+  {
+    "id": "p0228",
+    "text": "Na osiedlu otworzyli nową piekarnię z pysznym chlebem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0229",
+    "text": "Zapomniałem naładować telefon i teraz bateria mi siada.",
+    "source": "generated"
+  },
+  {
+    "id": "p0230",
+    "text": "Wszyscy sąsiedzi zebrali się, żeby posprzątać wspólny ogródek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0231",
+    "text": "Ciężko mi się dziś skupić, chyba jestem po prostu zmęczony.",
+    "source": "generated"
+  },
+  {
+    "id": "p0232",
+    "text": "Chciałabym w końcu poukładać wszystkie zdjęcia z wakacji.",
+    "source": "generated"
+  },
+  {
+    "id": "p0233",
+    "text": "Ten zapach świeżo skoszonej trawy zawsze przypomina mi dzieciństwo.",
+    "source": "generated"
+  },
+  {
+    "id": "p0234",
+    "text": "Zanim pójdziemy spać, sprawdźmy prognozę pogody na jutro.",
+    "source": "generated"
+  },
+  {
+    "id": "p0235",
+    "text": "Cała rodzina zbiera się na obiad w każdą niedzielę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0236",
+    "text": "Nie wiem, czy zdążę skończyć to zadanie dzisiaj.",
+    "source": "generated"
+  },
+  {
+    "id": "p0237",
+    "text": "Kupiliśmy nowy dywan do salonu, bardzo miękki w dotyku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0238",
+    "text": "Codziennie po szkole idę na trening piłki nożnej.",
+    "source": "generated"
+  },
+  {
+    "id": "p0239",
+    "text": "Sąsiadka zapytała, czy możemy podlać jej kwiatki podczas urlopu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0240",
+    "text": "Zamierzam w tym tygodniu więcej ćwiczyć na pianinie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0241",
+    "text": "Chciałbym kiedyś zbudować własną rakietę, która naprawdę wzbije się w niebo.",
+    "source": "generated"
+  },
+  {
+    "id": "p0242",
+    "text": "Ten model wydrukowany na drukarce trzeba jeszcze pomalować.",
+    "source": "generated"
+  },
+  {
+    "id": "p0243",
+    "text": "Program uczy się coraz lepiej rozpoznawać ludzki głos.",
+    "source": "generated"
+  },
+  {
+    "id": "p0244",
+    "text": "Nowa drukarka trzy de dotarła w końcu do domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0245",
+    "text": "Zbudowaliśmy model rakiety z gotowych części i kleju.",
+    "source": "generated"
+  },
+  {
+    "id": "p0246",
+    "text": "Ten utwór na pianino jest trudniejszy, niż wygląda.",
+    "source": "generated"
+  },
+  {
+    "id": "p0247",
+    "text": "Kod działał całą noc, zanim w końcu znaleźliśmy błąd.",
+    "source": "generated"
+  },
+  {
+    "id": "p0248",
+    "text": "Zanim zdążyliśmy dojechać na dworzec, pociąg już odjechał, więc musieliśmy czekać kolejną godzinę na następny.",
+    "source": "generated"
+  },
+  {
+    "id": "p0249",
+    "text": "Właściciel sklepu zaproponował nam zniżkę, jeśli zdecydujemy się kupić od razu wszystkie potrzebne materiały.",
+    "source": "generated"
+  },
+  {
+    "id": "p0250",
+    "text": "Po skończonym treningu wszyscy usiedliśmy razem na trawie i długo rozmawialiśmy o planach na przyszłość.",
+    "source": "generated"
+  },
+  {
+    "id": "p0251",
+    "text": "Choć przygotowania trwały wiele tygodni, ostateczny efekt przerósł nasze najśmielsze oczekiwania i wszyscy byli zachwyceni.",
+    "source": "generated"
+  },
+  {
+    "id": "p0252",
+    "text": "Wracając ze szkoły, spotkałem starego kolegę, którego nie widziałem od naprawdę bardzo wielu lat.",
+    "source": "generated"
+  },
+  {
+    "id": "p0253",
+    "text": "Instruktor tłumaczył nam krok po kroku, jak bezpiecznie złożyć i odpalić mały silnik rakietowy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0254",
+    "text": "W ostatniej chwili zmieniliśmy plany i zamiast do kina poszliśmy na długi spacer nad rzeką.",
+    "source": "generated"
+  },
+  {
+    "id": "p0255",
+    "text": "Nowy program do modelowania okazał się trudniejszy w obsłudze, niż się wcześniej spodziewaliśmy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0256",
+    "text": "Chociaż byliśmy bardzo zmęczeni po całym dniu wędrówki, nikt nie chciał jeszcze wracać do namiotu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0257",
+    "text": "Nie jest ci czasem zimno w tej kurtce?",
+    "source": "generated"
+  },
+  {
+    "id": "p0258",
+    "text": "Czy to prawda, że przenosicie się do nowego mieszkania?",
+    "source": "generated"
+  },
+  {
+    "id": "p0259",
+    "text": "Czy to twój pomysł, żeby jechać dziś w nocy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0260",
+    "text": "Idziesz jutro na trening, czy zostajesz w domu?",
+    "source": "generated"
+  },
+  {
+    "id": "p0261",
+    "text": "Czy ten model da się jeszcze wydrukować w nocy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0262",
+    "text": "Sto pięćdziesiąt trzy złote za bilet to całkiem sporo.",
+    "source": "generated"
+  },
+  {
+    "id": "p0263",
+    "text": "Numer telefonu do serwisu to sto dwadzieścia dwa, sto dwadzieścia trzy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0264",
+    "text": "Kupiłem trzy kilogramy jabłek i dwa kilogramy gruszek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0265",
+    "text": "Do Warszawy jest stąd jakieś sto dziesięć kilometrów.",
+    "source": "generated"
+  },
+  {
+    "id": "p0266",
+    "text": "Piąty stycznia wypada w tym roku we wtorek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0267",
+    "text": "Mieszkamy na czwartym piętrze, winda jest po lewej.",
+    "source": "generated"
+  },
+  {
+    "id": "p0268",
+    "text": "Urodziłem się drugiego kwietnia dwa tysiące dwunastego roku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0269",
+    "text": "Mamy zarezerwowany stolik na ósmą wieczorem dla czterech osób.",
+    "source": "generated"
+  },
+  {
+    "id": "p0270",
+    "text": "W tym roku frekwencja wyniosła dziewięćdziesiąt dwa procent.",
+    "source": "generated"
+  },
+  {
+    "id": "p0271",
+    "text": "Impreza zaczyna się o osiemnastej, a kończy o dwudziestej trzeciej.",
+    "source": "generated"
+  },
+  {
+    "id": "p0272",
+    "text": "Wysokość lotu wynosiła sto dwadzieścia metrów nad ziemią.",
+    "source": "generated"
+  },
+  {
+    "id": "p0273",
+    "text": "Ten telefon ma sto dwadzieścia osiem gigabajtów pamięci.",
+    "source": "generated"
+  },
+  {
+    "id": "p0274",
+    "text": "Rachunek w restauracji wyniósł sto dwadzieścia złotych na osobę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0275",
+    "text": "Podróż pociągiem zajmuje trzy godziny i dwadzieścia minut.",
+    "source": "generated"
+  },
+  {
+    "id": "p0276",
+    "text": "Na parkingu było dziś wolnych zaledwie kilka miejsc.",
+    "source": "generated"
+  },
+  {
+    "id": "p0277",
+    "text": "Bateria w dronie starcza na około dwadzieścia minut lotu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0278",
+    "text": "Wysłaliśmy już czterysta nagranych zdań do tego projektu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0279",
+    "text": "Kurs zaczyna się pierwszego września o dziewiątej rano.",
+    "source": "generated"
+  },
+  {
+    "id": "p0280",
+    "text": "Wydrukowaliśmy już ponad sto części do tej rakiety.",
+    "source": "generated"
+  },
+  {
+    "id": "p0281",
+    "text": "Wstrząs był tak silny, że obudził całą kamienicę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0282",
+    "text": "Cieszę się, że w końcu mogliśmy się spotkać.",
+    "source": "generated"
+  },
+  {
+    "id": "p0283",
+    "text": "Cały dzień siedzieliśmy nad rzeką i łowiliśmy ryby.",
+    "source": "generated"
+  },
+  {
+    "id": "p0284",
+    "text": "Śpiewaliśmy razem przy ognisku do późna w nocy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0285",
+    "text": "Śliwki z naszego sadu są w tym roku wyjątkowo słodkie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0286",
+    "text": "Ślub odbędzie się w małym kościółku na wsi.",
+    "source": "generated"
+  },
+  {
+    "id": "p0287",
+    "text": "Nic dziwnego, że jesteś zmęczony po całym dniu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0288",
+    "text": "Dziewczynka nauczyła się jeździć na rowerze bez bocznych kółek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0289",
+    "text": "Rzemiosło ludowe wciąż jest tu żywe i cenione.",
+    "source": "generated"
+  },
+  {
+    "id": "p0290",
+    "text": "Nadzieja nigdy nas nie opuszczała, nawet w trudnych chwilach.",
+    "source": "generated"
+  },
+  {
+    "id": "p0291",
+    "text": "Tęsknię za latem i długimi wieczorami na dworze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0292",
+    "text": "Model językowy uczy się na podstawie ogromnej ilości tekstu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0293",
+    "text": "Ten algorytm działa znacznie szybciej po ostatniej aktualizacji.",
+    "source": "generated"
+  },
+  {
+    "id": "p0294",
+    "text": "Drukarka trzy de pracowała przez całą noc bez przerwy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0295",
+    "text": "Wymieniłem dyszę w drukarce, bo się zapchała filamentem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0296",
+    "text": "Symulacja lotu pokazała, że rakieta osiągnie zakładaną wysokość.",
+    "source": "generated"
+  },
+  {
+    "id": "p0297",
+    "text": "Nowy model wytrenowany od zera zaskoczył wszystkich jakością.",
+    "source": "generated"
+  },
+  {
+    "id": "p0298",
+    "text": "Kod trzeba było poprawić, zanim program w ogóle wystartował.",
+    "source": "generated"
+  },
+  {
+    "id": "p0299",
+    "text": "Palce same znają tę melodię po tylu latach ćwiczeń.",
+    "source": "generated"
+  },
+  {
+    "id": "p0300",
+    "text": "Gama molowa brzmi dziś wyjątkowo smutno na tym pianinie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0301",
+    "text": "Filament PLA drukuje się łatwiej niż ten twardszy materiał.",
+    "source": "generated"
+  },
+  {
+    "id": "p0302",
+    "text": "Zbudowaliśmy prototyp lądownika z części wydrukowanych w domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0303",
+    "text": "Trzeba przećwiczyć ten fragment jeszcze kilka razy, zanim zabrzmi czysto.",
+    "source": "generated"
+  },
+  {
+    "id": "p0304",
+    "text": "Silnik klasy F dał radę unieść cały ten model.",
+    "source": "generated"
+  },
+  {
+    "id": "p0305",
+    "text": "Wczoraj spotkałem w sklepie starą koleżankę z podstawówki.",
+    "source": "generated"
+  },
+  {
+    "id": "p0306",
+    "text": "Ten serial oglądamy razem już od trzech sezonów.",
+    "source": "generated"
+  },
+  {
+    "id": "p0307",
+    "text": "Zapach świeżej kawy budzi mnie skuteczniej niż budzik.",
+    "source": "generated"
+  },
+  {
+    "id": "p0308",
+    "text": "Kupiliśmy nowe rośliny do salonu, bo stare uschły.",
+    "source": "generated"
+  },
+  {
+    "id": "p0309",
+    "text": "Ostatnio częściej jeżdżę rowerem zamiast autem do pracy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0310",
+    "text": "Nasz pies zawsze wita nas przy drzwiach z ogromną radością.",
+    "source": "generated"
+  },
+  {
+    "id": "p0311",
+    "text": "Zapisałem się na kurs pierwszej pomocy w przyszłym miesiącu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0312",
+    "text": "Codziennie po pracy staram się choć trochę poćwiczyć.",
+    "source": "generated"
+  },
+  {
+    "id": "p0313",
+    "text": "Sąsiedzi zaprosili nas na grilla w sobotę wieczorem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0314",
+    "text": "Nowy fotel do gabinetu w końcu przyjechał kurierem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0315",
+    "text": "Ten szlak górski jest piękny, ale dość wymagający.",
+    "source": "generated"
+  },
+  {
+    "id": "p0316",
+    "text": "Zgubiliśmy się na chwilę, zanim znaleźliśmy właściwą drogę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0317",
+    "text": "Nowa kawiarnia na rogu serwuje naprawdę dobre ciasta.",
+    "source": "generated"
+  },
+  {
+    "id": "p0318",
+    "text": "Trzeba było zabrać cieplejszą kurtkę na ten wyjazd.",
+    "source": "generated"
+  },
+  {
+    "id": "p0319",
+    "text": "Zjedliśmy dziś obiad w tej nowej restauracji nad rzeką.",
+    "source": "generated"
+  },
+  {
+    "id": "p0320",
+    "text": "Wieczorne spacery po parku pomagają mi się wyciszyć.",
+    "source": "generated"
+  },
+  {
+    "id": "p0321",
+    "text": "Zamierzam w tym roku więcej czytać niż zwykle.",
+    "source": "generated"
+  },
+  {
+    "id": "p0322",
+    "text": "Nasza drużyna wygrała wczoraj mecz w ostatniej minucie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0323",
+    "text": "Wczoraj wieczorem zadzwonił do mnie stary znajomy z pracy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0324",
+    "text": "Piekarnia na rogu otwiera się już o piątej rano.",
+    "source": "generated"
+  },
+  {
+    "id": "p0325",
+    "text": "Musimy jeszcze wybrać prezent dla taty na urodziny.",
+    "source": "generated"
+  },
+  {
+    "id": "p0326",
+    "text": "Zamówiliśmy nowe meble do kuchni, przyjadą za miesiąc.",
+    "source": "generated"
+  },
+  {
+    "id": "p0327",
+    "text": "Trzeba by w końcu posprzątać strych na dobre.",
+    "source": "generated"
+  },
+  {
+    "id": "p0328",
+    "text": "Codziennie sprawdzam skrzynkę pocztową po powrocie z pracy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0329",
+    "text": "Nowa apka do nauki języków jest naprawdę wciągająca.",
+    "source": "generated"
+  },
+  {
+    "id": "p0330",
+    "text": "Kupiliśmy bilety na koncert już trzy miesiące wcześniej.",
+    "source": "generated"
+  },
+  {
+    "id": "p0331",
+    "text": "Zapomniałem wyłączyć piekarnik i musiałem wracać do domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0332",
+    "text": "Ostatnio dużo pracujemy zdalnie, więc rzadziej wychodzimy z domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0333",
+    "text": "Zabrałem parasol, ale i tak zmokłem po drodze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0334",
+    "text": "Codziennie o tej samej porze budzi nas sąsiad odkurzaczem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0335",
+    "text": "Musimy jeszcze wybrać trasę na jutrzejszą wycieczkę rowerową.",
+    "source": "generated"
+  },
+  {
+    "id": "p0336",
+    "text": "Czy to normalne, że silnik tak głośno pracuje?",
+    "source": "generated"
+  },
+  {
+    "id": "p0337",
+    "text": "Czy mam kupić chleb, czy mamy jeszcze wczorajszy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0338",
+    "text": "Czy słyszałaś, że otwierają nowy sklep na rogu?",
+    "source": "generated"
+  },
+  {
+    "id": "p0339",
+    "text": "Czy to ty zostawiłeś otwarte okno w nocy?",
+    "source": "generated"
+  },
+  {
+    "id": "p0340",
+    "text": "Jak nazywa się ta piosenka, którą teraz nucisz?",
+    "source": "generated"
+  },
+  {
+    "id": "p0341",
+    "text": "Gdzie schowałeś instrukcję do tej drukarki trzy de?",
+    "source": "generated"
+  },
+  {
+    "id": "p0342",
+    "text": "Za dwa tygodnie mija rok od naszego ślubu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0343",
+    "text": "Zamówienie dotrze do nas za trzy dni robocze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0344",
+    "text": "Zapłaciliśmy za bilety sto sześćdziesiąt złotych od osoby.",
+    "source": "generated"
+  },
+  {
+    "id": "p0345",
+    "text": "Spotykamy się na dworcu piętnaście minut przed odjazdem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0346",
+    "text": "Rozpierzchły się na wszystkie strony, gdy tylko zaszczekał pies.",
+    "source": "generated"
+  },
+  {
+    "id": "p0347",
+    "text": "Zaszczyt było dla nas gościć was w naszym domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0348",
+    "text": "Wtrącił się do rozmowy w najmniej odpowiednim momencie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0349",
+    "text": "Chrzęst żwiru pod butami niósł się po całej alejce.",
+    "source": "generated"
+  },
+  {
+    "id": "p0350",
+    "text": "Trzymajmy się razem, żeby się nie zgubić w tłumie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0351",
+    "text": "Przypomnę ci o tym jutro z samego rana.",
+    "source": "generated"
+  },
+  {
+    "id": "p0352",
+    "text": "Dam ci znać, jak tylko będę coś wiedzieć.",
+    "source": "generated"
+  },
+  {
+    "id": "p0353",
+    "text": "Nie martw się, na pewno wszystko się ułoży.",
+    "source": "generated"
+  },
+  {
+    "id": "p0354",
+    "text": "Zaraz sprawdzę i wrócę do ciebie z odpowiedzią.",
+    "source": "generated"
+  },
+  {
+    "id": "p0355",
+    "text": "Powodzenia jutro na egzaminie, na pewno ci pójdzie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0356",
+    "text": "Nie przejmuj się drobiazgami, skup się na najważniejszym.",
+    "source": "generated"
+  },
+  {
+    "id": "p0357",
+    "text": "To normalne, że czasem coś nie wychodzi za pierwszym razem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0358",
+    "text": "Wczoraj wieczorem piekliśmy razem ciasto na urodziny mamy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0359",
+    "text": "Sąsiad zza ściany znowu ćwiczy grę na trąbce.",
+    "source": "generated"
+  },
+  {
+    "id": "p0360",
+    "text": "Zapomniałem wyłączyć laptopa i bateria całkiem się rozładowała.",
+    "source": "generated"
+  },
+  {
+    "id": "p0361",
+    "text": "Chłopcy grali w piłkę na boisku aż do zmierzchu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0362",
+    "text": "Wyjeżdżamy jutro wcześnie rano, więc spakujmy się dziś wieczorem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0363",
+    "text": "Na targu kupiliśmy świeże truskawki i chrupiące ogórki.",
+    "source": "generated"
+  },
+  {
+    "id": "p0364",
+    "text": "Nauczyciel muzyki pokazał nam nowy sposób trzymania rąk na klawiaturze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0365",
+    "text": "Zima w tym roku przyszła wyjątkowo wcześnie i ostro.",
+    "source": "generated"
+  },
+  {
+    "id": "p0366",
+    "text": "Ciotka przywiozła nam prezenty aż z samej Hiszpanii.",
+    "source": "generated"
+  },
+  {
+    "id": "p0367",
+    "text": "Dzieci zbudowały na plaży ogromny zamek z piasku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0368",
+    "text": "Właściciel warsztatu obiecał naprawić samochód jeszcze przed weekendem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0369",
+    "text": "Codziennie po obiedzie robimy krótki spacer wokół osiedla.",
+    "source": "generated"
+  },
+  {
+    "id": "p0370",
+    "text": "Nowy sklep spożywczy otworzyli tuż obok naszej klatki.",
+    "source": "generated"
+  },
+  {
+    "id": "p0371",
+    "text": "Wieczorem robi się tu naprawdę cicho i spokojnie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0372",
+    "text": "Zanim zaczniemy remont, musimy jeszcze wybrać kolor płytek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0373",
+    "text": "Chłodny wiatr znad morza przyjemnie orzeźwiał nas po całym dniu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0374",
+    "text": "Wszyscy koledzy z klasy przyszli na moje urodziny.",
+    "source": "generated"
+  },
+  {
+    "id": "p0375",
+    "text": "Rodzice zdecydowali się w końcu na wymianę starego samochodu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0376",
+    "text": "Zajęcia z robotyki cieszą się w tym roku ogromną popularnością.",
+    "source": "generated"
+  },
+  {
+    "id": "p0377",
+    "text": "Codziennie rano karmimy koty, które mieszkają w naszej piwnicy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0378",
+    "text": "Ten stary zegar na ścianie chodzi już od pokoleń.",
+    "source": "generated"
+  },
+  {
+    "id": "p0379",
+    "text": "Musimy jeszcze wybrać, gdzie spędzimy tegoroczne wakacje letnie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0380",
+    "text": "Zbieramy fundusze na nowy sprzęt dla szkolnej pracowni.",
+    "source": "generated"
+  },
+  {
+    "id": "p0381",
+    "text": "Wieczorem lubimy grać razem w planszówki przy herbacie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0382",
+    "text": "Ten most remontują już od ponad roku bez przerwy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0383",
+    "text": "Codziennie po szkole odrabiam lekcje przy biurku w pokoju.",
+    "source": "generated"
+  },
+  {
+    "id": "p0384",
+    "text": "Zamówiliśmy nowy stół do jadalni, powinien dotrzeć w tym tygodniu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0385",
+    "text": "Warto co jakiś czas przewietrzyć całe mieszkanie na oścież.",
+    "source": "generated"
+  },
+  {
+    "id": "p0386",
+    "text": "Trener poprosił nas o dodatkowy trening przed sobotnim meczem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0387",
+    "text": "Nowa biblioteka w centrum ma naprawdę bogaty wybór książek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0388",
+    "text": "Zawsze na wakacjach odwiedzamy tę samą małą kawiarnię przy plaży.",
+    "source": "generated"
+  },
+  {
+    "id": "p0389",
+    "text": "Musimy jeszcze skończyć malowanie płotu, zanim spadnie deszcz.",
+    "source": "generated"
+  },
+  {
+    "id": "p0390",
+    "text": "Codziennie wieczorem odkładam telefon na godzinę przed snem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0391",
+    "text": "Piekarz z naszej ulicy piecze bułki od czwartej rano.",
+    "source": "generated"
+  },
+  {
+    "id": "p0392",
+    "text": "Zaprosiliśmy wszystkich sąsiadów na małe przyjęcie w ogrodzie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0393",
+    "text": "Ten film opowiada historię prawdziwej rodziny z górskiej wioski.",
+    "source": "generated"
+  },
+  {
+    "id": "p0394",
+    "text": "Nowy park rowerowy powstał w miejscu starego boiska.",
+    "source": "generated"
+  },
+  {
+    "id": "p0395",
+    "text": "Zamówiliśmy pizzę na wynos, bo nikomu nie chciało się gotować.",
+    "source": "generated"
+  },
+  {
+    "id": "p0396",
+    "text": "Trzeba będzie w końcu oddać te książki do biblioteki miejskiej.",
+    "source": "generated"
+  },
+  {
+    "id": "p0397",
+    "text": "Ostatnio coraz więcej osób jeździ do pracy na rowerze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0398",
+    "text": "Codziennie przed snem sprawdzam, czy zamknąłem wszystkie okna.",
+    "source": "generated"
+  },
+  {
+    "id": "p0399",
+    "text": "Zima w górach potrafi zaskoczyć nawet doświadczonych turystów.",
+    "source": "generated"
+  },
+  {
+    "id": "p0400",
+    "text": "Wieczorem usiedliśmy razem, żeby obejrzeć stare zdjęcia rodzinne.",
+    "source": "generated"
+  },
+  {
+    "id": "p0401",
+    "text": "Musimy zaplanować trasę wycieczki, zanim wyruszymy w góry.",
+    "source": "generated"
+  },
+  {
+    "id": "p0402",
+    "text": "Zbudowaliśmy razem z tatą małą szopę na narzędzia.",
+    "source": "generated"
+  },
+  {
+    "id": "p0403",
+    "text": "Nowy nauczyciel wychowania fizycznego prowadzi zajęcia bardzo energicznie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0404",
+    "text": "Chciałbym kiedyś zwiedzić wszystkie zamki w naszym regionie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0405",
+    "text": "Zabrakło nam mąki, więc musimy dokończyć zakupy jutro.",
+    "source": "generated"
+  },
+  {
+    "id": "p0406",
+    "text": "Ten szlak prowadzi prosto na szczyt najwyższej góry w okolicy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0407",
+    "text": "Musimy jeszcze umówić się na wspólne wyjście do kina.",
+    "source": "generated"
+  },
+  {
+    "id": "p0408",
+    "text": "Codziennie o tej samej porze przejeżdża tędy pociąg towarowy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0409",
+    "text": "Zamierzamy w tym roku posadzić w ogrodzie kilka nowych drzew.",
+    "source": "generated"
+  },
+  {
+    "id": "p0410",
+    "text": "Ten stary młyn nad rzeką stoi tu od ponad stu lat.",
+    "source": "generated"
+  },
+  {
+    "id": "p0411",
+    "text": "Musimy jeszcze skończyć porządki przed przyjazdem gości z zagranicy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0412",
+    "text": "Codziennie wieczorem sprawdzam, ile kroków przeszedłem w ciągu dnia.",
+    "source": "generated"
+  },
+  {
+    "id": "p0413",
+    "text": "Zamówiliśmy nowy dywan, bo stary zupełnie się już wytarł.",
+    "source": "generated"
+  },
+  {
+    "id": "p0414",
+    "text": "Trzeba będzie w końcu wymienić uszczelki w oknach.",
+    "source": "generated"
+  },
+  {
+    "id": "p0415",
+    "text": "Codziennie po śniadaniu wychodzę na krótki spacer z psem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0416",
+    "text": "Ten koncert zapowiada się na największe wydarzenie w tym mieście.",
+    "source": "generated"
+  },
+  {
+    "id": "p0417",
+    "text": "Musimy jeszcze skończyć pakowanie przed jutrzejszym wyjazdem na narty.",
+    "source": "generated"
+  },
+  {
+    "id": "p0418",
+    "text": "Zawsze staramy się jeść śniadanie razem, mimo napiętego grafiku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0419",
+    "text": "Codziennie sprawdzam prognozę, zanim wybiorę się na rower.",
+    "source": "generated"
+  },
+  {
+    "id": "p0420",
+    "text": "Nowa aplikacja pomaga nam planować wspólne zakupy spożywcze.",
+    "source": "generated"
+  },
+  {
+    "id": "p0421",
+    "text": "Musimy jeszcze skoordynować dojazd z resztą rodziny na wesele.",
+    "source": "generated"
+  },
+  {
+    "id": "p0422",
+    "text": "Ten piec chlebowy zbudowaliśmy własnoręcznie w ogrodzie w zeszłym roku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0423",
+    "text": "Zamierzamy odnowić stary rower, który stoi w garażu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0424",
+    "text": "Ten wykładowca tłumaczy nawet trudne tematy naprawdę przystępnie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0425",
+    "text": "Musimy jeszcze wybrać prezent na chrzciny córki sąsiadów.",
+    "source": "generated"
+  },
+  {
+    "id": "p0426",
+    "text": "Codziennie po pracy zaglądam do skrzynki na listy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0427",
+    "text": "Ten stary dąb rośnie na środku naszej wsi od pokoleń.",
+    "source": "generated"
+  },
+  {
+    "id": "p0428",
+    "text": "Zamówiliśmy nowe firanki do salonu, powinny pasować do reszty wystroju.",
+    "source": "generated"
+  },
+  {
+    "id": "p0429",
+    "text": "Musimy jeszcze przećwiczyć ten fragment utworu przed jutrzejszym koncertem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0430",
+    "text": "Codziennie rano robimy razem krótką rozgrzewkę przed treningiem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0431",
+    "text": "Ten prom kursuje między wyspami tylko w sezonie letnim.",
+    "source": "generated"
+  },
+  {
+    "id": "p0432",
+    "text": "Zamierzamy w końcu wybrać się na ten długo odkładany wyjazd.",
+    "source": "generated"
+  },
+  {
+    "id": "p0433",
+    "text": "Musimy jeszcze podpisać umowę, zanim odbierzemy klucze do mieszkania.",
+    "source": "generated"
+  },
+  {
+    "id": "p0434",
+    "text": "Codziennie wieczorem sprawdzamy, czy dzieci odrobiły wszystkie zadania.",
+    "source": "generated"
+  },
+  {
+    "id": "p0435",
+    "text": "Ten sklep z instrumentami ma naprawdę duży wybór pianin.",
+    "source": "generated"
+  },
+  {
+    "id": "p0436",
+    "text": "Zamierzamy latem wybrać się na spływ kajakowy po rzece.",
+    "source": "generated"
+  },
+  {
+    "id": "p0437",
+    "text": "Musimy jeszcze naprawić płot, zanim wpuścimy tam psa.",
+    "source": "generated"
+  },
+  {
+    "id": "p0438",
+    "text": "Codziennie po kolacji gramy razem w karty przy stole.",
+    "source": "generated"
+  },
+  {
+    "id": "p0439",
+    "text": "Ten warsztat samochodowy poleciła nam sąsiadka z naprzeciwka.",
+    "source": "generated"
+  },
+  {
+    "id": "p0440",
+    "text": "Zamierzamy w tym miesiącu w końcu posprzątać cały strych.",
+    "source": "generated"
+  },
+  {
+    "id": "p0441",
+    "text": "Codziennie rano słychać stąd śpiew ptaków z pobliskiego lasu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0442",
+    "text": "Ten stary most kołysze się lekko, kiedy przejeżdża samochód.",
+    "source": "generated"
+  },
+  {
+    "id": "p0443",
+    "text": "Zamierzamy odwiedzić w tym roku wszystkich krewnych po kolei.",
+    "source": "generated"
+  },
+  {
+    "id": "p0444",
+    "text": "Musimy jeszcze skończyć szycie kostiumów na szkolne przedstawienie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0445",
+    "text": "Codziennie wieczorem czytam trochę przed zaśnięciem, choćby dziesięć minut.",
+    "source": "generated"
+  },
+  {
+    "id": "p0446",
+    "text": "Ten sad jabłkowy należy do naszej rodziny od pokoleń.",
+    "source": "generated"
+  },
+  {
+    "id": "p0447",
+    "text": "Zamierzamy w przyszłym tygodniu odświeżyć całą elewację domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0448",
+    "text": "Musimy jeszcze skończyć projekt, zanim skończy się semestr.",
+    "source": "generated"
+  },
+  {
+    "id": "p0449",
+    "text": "Codziennie sprawdzam, czy roślinom na balkonie nie brakuje wody.",
+    "source": "generated"
+  },
+  {
+    "id": "p0450",
+    "text": "Ten instruktor nurkowania uczy nas od podstaw przez cały tydzień.",
+    "source": "generated"
+  },
+  {
+    "id": "p0451",
+    "text": "Zamierzamy zbudować w ogrodzie mały staw dla ryb.",
+    "source": "generated"
+  },
+  {
+    "id": "p0452",
+    "text": "Musimy jeszcze przetestować ten model, zanim pokażemy go innym.",
+    "source": "generated"
+  },
+  {
+    "id": "p0453",
+    "text": "Codziennie rano dzieci czekają na szkolny autobus na przystanku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0454",
+    "text": "Ten piekarnik trzeba wymienić, bo już od dawna źle grzeje.",
+    "source": "generated"
+  },
+  {
+    "id": "p0455",
+    "text": "Zamierzamy w końcu nauczyć się gotować kilka nowych potraw.",
+    "source": "generated"
+  },
+  {
+    "id": "p0456",
+    "text": "Codziennie wieczorem sprawdzamy razem plan zajęć na następny dzień.",
+    "source": "generated"
+  },
+  {
+    "id": "p0457",
+    "text": "Ten zegarek dostałem od dziadka na swoje osiemnaste urodziny.",
+    "source": "generated"
+  },
+  {
+    "id": "p0458",
+    "text": "Zamierzamy w weekend posprzątać cały garaż od podstaw.",
+    "source": "generated"
+  },
+  {
+    "id": "p0459",
+    "text": "Musimy jeszcze wybrać odpowiednią muzykę na przyjęcie urodzinowe.",
+    "source": "generated"
+  },
+  {
+    "id": "p0460",
+    "text": "Codziennie po szkole gram trochę na pianinie, zanim zabiorę się za lekcje.",
+    "source": "generated"
+  },
+  {
+    "id": "p0461",
+    "text": "Ten fotograf robił nam zdjęcia jeszcze na naszym ślubie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0462",
+    "text": "Zamierzamy w tym roku spróbować czegoś zupełnie nowego na wakacjach.",
+    "source": "generated"
+  },
+  {
+    "id": "p0463",
+    "text": "Musimy jeszcze skończyć instalację, zanim zaczną się mrozy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0464",
+    "text": "Codziennie rano zaglądam do ogrodu sprawdzić, co już wykiełkowało.",
+    "source": "generated"
+  },
+  {
+    "id": "p0465",
+    "text": "Ten stary radiobudzik wciąż działa, choć ma już ponad dwadzieścia lat.",
+    "source": "generated"
+  },
+  {
+    "id": "p0466",
+    "text": "Musimy jeszcze omówić szczegóły trasy z resztą grupy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0467",
+    "text": "Codziennie wieczorem zapisuję kilka zdań w swoim pamiętniku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0468",
+    "text": "Ten kucharz przygotował dla nas menu specjalnie na tę okazję.",
+    "source": "generated"
+  },
+  {
+    "id": "p0469",
+    "text": "Zamierzamy wreszcie wymienić starą kanapę na coś wygodniejszego.",
+    "source": "generated"
+  },
+  {
+    "id": "p0470",
+    "text": "Musimy jeszcze dograć szczegóły z dostawcą przed otwarciem sklepu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0471",
+    "text": "Codziennie o zmierzchu widać stąd całe miasto jak na dłoni.",
+    "source": "generated"
+  },
+  {
+    "id": "p0472",
+    "text": "Ten stolarz zrobił nam na zamówienie piękny regał na książki.",
+    "source": "generated"
+  },
+  {
+    "id": "p0473",
+    "text": "Zamierzamy jeszcze w tym miesiącu odwiedzić nowo otwarte muzeum.",
+    "source": "generated"
+  },
+  {
+    "id": "p0474",
+    "text": "Musimy jeszcze zebrać podpisy od wszystkich rodziców przed wycieczką.",
+    "source": "generated"
+  },
+  {
+    "id": "p0475",
+    "text": "Codziennie rano biegam wokół osiedla, zanim zrobi się za gorąco.",
+    "source": "generated"
+  },
+  {
+    "id": "p0476",
+    "text": "Ten sklep z płytami ma niesamowitą kolekcję starych nagrań.",
+    "source": "generated"
+  },
+  {
+    "id": "p0477",
+    "text": "Zamierzamy przez cały tydzień gotować tylko dania wegetariańskie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0478",
+    "text": "Musimy jeszcze skończyć dekorować salę przed jutrzejszym przyjęciem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0479",
+    "text": "Codziennie wieczorem chłodzi się tutaj wyraźnie szybciej niż w mieście.",
+    "source": "generated"
+  },
+  {
+    "id": "p0480",
+    "text": "Ten mechanik znalazł usterkę, o której nikt wcześniej nie wiedział.",
+    "source": "generated"
+  },
+  {
+    "id": "p0481",
+    "text": "Zamierzamy w tym roku samodzielnie wyremontować całą kuchnię.",
+    "source": "generated"
+  },
+  {
+    "id": "p0482",
+    "text": "Codziennie rano słychać z sąsiedztwa, jak ktoś ćwiczy skalę na pianinie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0483",
+    "text": "Ten introligator oprawił nam starą książkę, którą znaleźliśmy na strychu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0484",
+    "text": "Zamierzamy zorganizować w tym roku większe spotkanie rodzinne.",
+    "source": "generated"
+  },
+  {
+    "id": "p0485",
+    "text": "Musimy jeszcze przemyśleć, jak podzielimy się obowiązkami w podróży.",
+    "source": "generated"
+  },
+  {
+    "id": "p0486",
+    "text": "Codziennie wieczorem zamykam wszystkie okna, zanim zrobi się chłodno.",
+    "source": "generated"
+  },
+  {
+    "id": "p0487",
+    "text": "Ten krawiec uszył mi na miarę piękny letni płaszcz.",
+    "source": "generated"
+  },
+  {
+    "id": "p0488",
+    "text": "Musimy jeszcze przetestować całą instalację, zanim wpuścimy tam gości.",
+    "source": "generated"
+  },
+  {
+    "id": "p0489",
+    "text": "Codziennie rano na targu czuć zapach świeżo upieczonego chleba.",
+    "source": "generated"
+  },
+  {
+    "id": "p0490",
+    "text": "Ten stary strych skrywa mnóstwo pamiątek po naszych dziadkach.",
+    "source": "generated"
+  },
+  {
+    "id": "p0491",
+    "text": "Zamierzamy w tym roku bardziej zadbać o nasz ogród warzywny.",
+    "source": "generated"
+  },
+  {
+    "id": "p0492",
+    "text": "Musimy jeszcze omówić budżet, zanim zaczniemy większy remont.",
+    "source": "generated"
+  },
+  {
+    "id": "p0493",
+    "text": "Codziennie wieczorem gasną światła w oknach po kolei.",
+    "source": "generated"
+  },
+  {
+    "id": "p0494",
+    "text": "Ten zegarmistrz naprawił nam zegarek, który stał od lat.",
+    "source": "generated"
+  },
+  {
+    "id": "p0495",
+    "text": "Zamierzamy przez wakacje odwiedzić przynajmniej trzy nowe miasta.",
+    "source": "generated"
+  },
+  {
+    "id": "p0496",
+    "text": "Musimy jeszcze uzupełnić apteczkę przed dłuższym wyjazdem w góry.",
+    "source": "generated"
+  },
+  {
+    "id": "p0497",
+    "text": "Zanim wyruszyliśmy w góry, dokładnie sprawdziliśmy prognozę pogody i spakowaliśmy wszystko, co mogło się przydać.",
+    "source": "generated"
+  },
+  {
+    "id": "p0498",
+    "text": "Mimo że mieliśmy dokładny plan podróży, i tak zgubiliśmy się w wąskich uliczkach starego miasta.",
+    "source": "generated"
+  },
+  {
+    "id": "p0499",
+    "text": "Kiedy tylko skończyliśmy remont łazienki, natychmiast zabraliśmy się za odnawianie starej kuchennej szafki.",
+    "source": "generated"
+  },
+  {
+    "id": "p0500",
+    "text": "Zanim zdecydowaliśmy się na ten wyjazd, długo zastanawialiśmy się, czy nie lepiej zostać w domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0501",
+    "text": "Po powrocie z pracy zwykle najpierw sprawdzam skrzynkę pocztową, a dopiero potem wchodzę do mieszkania.",
+    "source": "generated"
+  },
+  {
+    "id": "p0502",
+    "text": "Chociaż drukarka trzy de pracowała przez całą noc, model wciąż nie był gotowy rano.",
+    "source": "generated"
+  },
+  {
+    "id": "p0503",
+    "text": "Kiedy wreszcie skończyliśmy pakować walizki, zorientowaliśmy się, że zapomnieliśmy o paszportach leżących na stole.",
+    "source": "generated"
+  },
+  {
+    "id": "p0504",
+    "text": "Zanim zaczęliśmy budować dom, spędziliśmy wiele miesięcy na wybieraniu odpowiedniej działki pod inwestycję.",
+    "source": "generated"
+  },
+  {
+    "id": "p0505",
+    "text": "Po skończonym koncercie publiczność jeszcze długo nie chciała opuszczać sali, domagając się kolejnego bisu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0506",
+    "text": "Kiedy program w końcu zadziałał poprawnie, cały zespół odetchnął z wyraźną ulgą po tygodniach pracy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0507",
+    "text": "Chociaż silnik rakiety zapalił się z małym opóźnieniem, lot przebiegł dokładnie zgodnie z naszym planem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0508",
+    "text": "Zanim zasiedliśmy do wspólnego obiadu, wszyscy pomagali nakrywać do stołu i przynosić talerze z kuchni.",
+    "source": "generated"
+  },
+  {
+    "id": "p0509",
+    "text": "Kiedy tylko zauważyliśmy pierwsze oznaki burzy, szybko zaczęliśmy zwijać koc i chować rzeczy do plecaka.",
+    "source": "generated"
+  },
+  {
+    "id": "p0510",
+    "text": "Mimo że trasa wydawała się prosta na mapie, w rzeczywistości okazała się znacznie bardziej wymagająca.",
+    "source": "generated"
+  },
+  {
+    "id": "p0511",
+    "text": "Po wielu godzinach ćwiczeń ten trudny fragment utworu wreszcie zaczął brzmieć tak, jak chciałem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0512",
+    "text": "Zanim wystartowaliśmy z tym modelem, jeszcze raz dokładnie sprawdziliśmy wszystkie połączenia i czujniki na pokładzie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0513",
+    "text": "Zanim oddaliśmy klucze nowym właścicielom, jeszcze raz obeszliśmy cały dom, żeby się z nim pożegnać.",
+    "source": "generated"
+  },
+  {
+    "id": "p0514",
+    "text": "Kiedy usłyszeliśmy pierwszy grzmot, natychmiast zaczęliśmy zbierać rzeczy rozłożone na trawie przy namiocie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0515",
+    "text": "Mimo zmęczenia po całym dniu pracy, wieczorem zawsze staramy się znaleźć chwilę na wspólną rozmowę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0516",
+    "text": "Po skończonym treningu chłopcy jeszcze długo siedzieli na trawie, rozmawiając o dzisiejszym meczu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0517",
+    "text": "Zanim zdecydowaliśmy się na zakup tego mieszkania, obejrzeliśmy wcześniej ponad dwadzieścia innych ofert w mieście.",
+    "source": "generated"
+  },
+  {
+    "id": "p0518",
+    "text": "Kiedy wreszcie skończyliśmy montaż mebli, salon wyglądał zupełnie inaczej, niż sobie wcześniej wyobrażaliśmy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0519",
+    "text": "Chociaż pogoda nie zapowiadała się najlepiej, ostatecznie cały weekend spędziliśmy na słonecznej plaży.",
+    "source": "generated"
+  },
+  {
+    "id": "p0520",
+    "text": "Po powrocie z podróży zawsze najbardziej brakuje mi porannej kawy wypijanej w naszej własnej kuchni.",
+    "source": "generated"
+  },
+  {
+    "id": "p0521",
+    "text": "Zanim zgasiliśmy światło, jeszcze raz sprawdziliśmy, czy wszystkie drzwi i okna są dobrze zamknięte.",
+    "source": "generated"
+  },
+  {
+    "id": "p0522",
+    "text": "Kiedy tylko skończyła się szkoła, cała klasa od razu pobiegła na boisko grać w piłkę.",
+    "source": "generated"
+  },
+  {
+    "id": "p0523",
+    "text": "Po wielu latach mieszkania w mieście w końcu zdecydowaliśmy się przeprowadzić na spokojną wieś.",
+    "source": "generated"
+  },
+  {
+    "id": "p0524",
+    "text": "Zanim zaczęliśmy nagrywać te zdania, dokładnie sprawdziliśmy mikrofon, żeby nagranie było jak najlepszej jakości.",
+    "source": "generated"
+  },
+  {
+    "id": "p0525",
+    "text": "Kiedy w końcu przestało padać, dzieci od razu wybiegły na dwór, żeby poskakać po kałużach.",
+    "source": "generated"
+  },
+  {
+    "id": "p0526",
+    "text": "Zanim zaczęliśmy przygotowywać kolację, poszliśmy jeszcze do sklepu po świeże warzywa i pieczywo.",
+    "source": "generated"
+  },
+  {
+    "id": "p0527",
+    "text": "Kiedy tylko usłyszeliśmy sygnał startu, wszyscy zamarli, patrząc, jak rakieta powoli unosi się w niebo.",
+    "source": "generated"
+  },
+  {
+    "id": "p0528",
+    "text": "Mimo że mieliśmy tylko godzinę na przygotowania, udało nam się zdążyć ze wszystkim na czas.",
+    "source": "generated"
+  },
+  {
+    "id": "p0529",
+    "text": "Po skończonej lekcji nauczycielka poprosiła nas o zostanie chwilę dłużej, żeby omówić szczegóły projektu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0530",
+    "text": "Zanim wróciliśmy do samochodu, jeszcze raz spojrzeliśmy na góry, które rozciągały się aż po horyzont.",
+    "source": "generated"
+  },
+  {
+    "id": "p0531",
+    "text": "Kiedy dzieci wreszcie zasnęły, rodzice mogli w spokoju usiąść razem przy kolacji i porozmawiać.",
+    "source": "generated"
+  },
+  {
+    "id": "p0532",
+    "text": "Chociaż byliśmy pewni, że mamy wszystko spakowane, na miejscu okazało się, że brakuje nam ładowarki.",
+    "source": "generated"
+  },
+  {
+    "id": "p0533",
+    "text": "Zanim zaczęliśmy grać ten utwór na koncercie, ćwiczyliśmy go razem niemal codziennie przez cały miesiąc.",
+    "source": "generated"
+  },
+  {
+    "id": "p0534",
+    "text": "Kiedy tylko skończył się deszcz, na niebie pojawiła się piękna, wyraźna tęcza nad całą doliną.",
+    "source": "generated"
+  },
+  {
+    "id": "p0535",
+    "text": "Po wielu próbach udało nam się w końcu poprawnie skalibrować wszystkie czujniki przed startem rakiety.",
+    "source": "generated"
+  },
+  {
+    "id": "p0536",
+    "text": "Zanim wystartowaliśmy z tą rakietą, jeszcze raz dokładnie sprawdziliśmy wagę i środek ciężkości całej konstrukcji.",
+    "source": "generated"
+  },
+  {
+    "id": "p0537",
+    "text": "Zanim zaczęliśmy nagrywać kolejne zdania, zrobiliśmy krótką przerwę, żeby odpocząć i napić się wody.",
+    "source": "generated"
+  },
+  {
+    "id": "p0538",
+    "text": "Po wielu tygodniach oczekiwania paczka z zamówionymi częściami w końcu dotarła prosto pod nasze drzwi.",
+    "source": "generated"
+  },
+  {
+    "id": "p0539",
+    "text": "Zanim ruszyliśmy w tę długą podróż, upewniliśmy się, że mamy wszystkie potrzebne dokumenty i mapy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0540",
+    "text": "Po skończonym koncercie muzycy jeszcze długo rozmawiali z publicznością, rozdając autografy i pamiątkowe zdjęcia.",
+    "source": "generated"
+  },
+  {
+    "id": "p0541",
+    "text": "Zanim zaczęliśmy budować ten model, spędziliśmy wiele wieczorów na czytaniu instrukcji i oglądaniu poradników.",
+    "source": "generated"
+  },
+  {
+    "id": "p0542",
+    "text": "Kiedy wróciliśmy z wakacji, okazało się, że sąsiedzi przez cały tydzień podlewali nasze kwiaty na balkonie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0543",
+    "text": "Babcia zawsze powtarzała, że najważniejsze w życiu to zdrowie, rodzina i odrobina cierpliwości do innych ludzi.",
+    "source": "generated"
+  },
+  {
+    "id": "p0544",
+    "text": "Chociaż przez cały dzień padało, wieczorem niebo się rozpogodziło i mogliśmy razem obejrzeć zachód słońca z tarasu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0545",
+    "text": "Po długiej dyskusji w końcu ustaliliśmy, że w tym roku spędzimy święta u dziadków na wsi.",
+    "source": "generated"
+  },
+  {
+    "id": "p0546",
+    "text": "Nauczyciel poprosił, żebyśmy przygotowali krótką prezentację na temat naszych ulubionych książek i przynieśli ją na przyszły tydzień.",
+    "source": "generated"
+  },
+  {
+    "id": "p0547",
+    "text": "Kiedy byłem młodszy, spędzałem całe wakacje u dziadków, biegając po polach i łowiąc ryby w rzece.",
+    "source": "generated"
+  },
+  {
+    "id": "p0548",
+    "text": "Mimo że budzik dzwonił trzy razy, i tak nie zdążyłem spakować wszystkiego przed wyjściem z domu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0549",
+    "text": "Zawsze marzyłem, żeby zobaczyć na żywo start prawdziwej rakiety, a nie tylko oglądać to w telewizji.",
+    "source": "generated"
+  },
+  {
+    "id": "p0550",
+    "text": "Jeśli chcesz zdążyć na pociąg o siódmej trzydzieści, powinieneś wyjść z domu najpóźniej za dwadzieścia minut.",
+    "source": "generated"
+  },
+  {
+    "id": "p0551",
+    "text": "Zanim zaczniemy budować model, musimy dokładnie sprawdzić, czy mamy wszystkie potrzebne części i narzędzia pod ręką.",
+    "source": "generated"
+  },
+  {
+    "id": "p0552",
+    "text": "Codziennie rano, zanim jeszcze wszyscy wstaną, lubię usiąść przy oknie z kubkiem herbaty i patrzeć na wschód słońca.",
+    "source": "generated"
+  },
+  {
+    "id": "p0553",
+    "text": "Kiedy w końcu dotarliśmy na miejsce, okazało się, że namiot został w domu i musieliśmy szukać noclegu w pobliskim schronisku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0554",
+    "text": "Nauczyciel powiedział, że jeśli chcemy zdać ten egzamin, musimy jeszcze przez dwa tygodnie powtarzać materiał codziennie po szkole.",
+    "source": "generated"
+  },
+  {
+    "id": "p0555",
+    "text": "Chociaż byliśmy bardzo zmęczeni po całodziennej podróży, postanowiliśmy jeszcze wybrać się na krótki spacer po okolicy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0556",
+    "text": "Kiedy babcia opowiadała o swoim dzieciństwie, zawsze wspominała, jak trudne, ale i piękne były tamte czasy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0557",
+    "text": "Zanim wróciliśmy do domu, zatrzymaliśmy się jeszcze w małej piekarni, żeby kupić świeży chleb na jutrzejsze śniadanie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0558",
+    "text": "Po długim dniu w szkole najbardziej cieszę się na chwilę ciszy z kubkiem herbaty w ręku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0559",
+    "text": "Chociaż budowa modelu rakiety zajęła nam wiele tygodni, satysfakcja z udanego startu wynagrodziła cały ten trud.",
+    "source": "generated"
+  },
+  {
+    "id": "p0560",
+    "text": "Mimo że deszcz padał od samego rana, wszyscy i tak przyszli na to długo wyczekiwane spotkanie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0561",
+    "text": "Zanim ruszyliśmy w dalszą drogę, zatrzymaliśmy się na chwilę, żeby podziwiać widok rozciągający się z tego wzgórza.",
+    "source": "generated"
+  },
+  {
+    "id": "p0562",
+    "text": "Kiedy wreszcie dotarła do nas przesyłka, wszyscy z ciekawością zebrali się wokół stołu, żeby ją otworzyć.",
+    "source": "generated"
+  },
+  {
+    "id": "p0563",
+    "text": "Chociaż byliśmy pewni, że znamy tę drogę na pamięć, tym razem musieliśmy skorzystać z mapy w telefonie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0564",
+    "text": "Po długiej zimie pierwsze cieplejsze dni zawsze budzą w nas ochotę na dłuższe spacery po parku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0565",
+    "text": "Mimo że model rozbił się przy pierwszej próbie, następnego dnia spróbowaliśmy jeszcze raz i się udało.",
+    "source": "generated"
+  },
+  {
+    "id": "p0566",
+    "text": "Chociaż byliśmy zmęczeni po całym dniu zwiedzania, wieczorem i tak wybraliśmy się na krótki spacer nad morzem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0567",
+    "text": "Po długiej rozmowie z serwisantem udało nam się w końcu ustalić, co dokładnie zepsuło się w pralce.",
+    "source": "generated"
+  },
+  {
+    "id": "p0568",
+    "text": "Po długim dniu spędzonym na budowie modelu w końcu mogliśmy zobaczyć, jak nasz wysiłek nabiera kształtu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0569",
+    "text": "Mimo że droga była dłuższa, niż się spodziewaliśmy, w końcu dotarliśmy na miejsce jeszcze przed zmrokiem.",
+    "source": "generated"
+  },
+  {
+    "id": "p0570",
+    "text": "Chociaż wielokrotnie ćwiczyliśmy tę procedurę, za każdym razem przed startem czuliśmy to samo podekscytowanie i lekki niepokój.",
+    "source": "generated"
+  },
+  {
+    "id": "p0571",
+    "text": "Kiedy tylko skończyła się burza, wybiegliśmy z domu, żeby sprawdzić, czy w ogrodzie nie doszło do żadnych szkód.",
+    "source": "generated"
+  },
+  {
+    "id": "p0572",
+    "text": "Zanim zdecydowaliśmy się kupić to mieszkanie, dokładnie sprawdziliśmy stan instalacji elektrycznej oraz hydraulicznej w całym budynku.",
+    "source": "generated"
+  },
+  {
+    "id": "p0573",
+    "text": "Po skończonym remoncie kuchni okazało się, że musimy jeszcze dokupić kilka drobiazgów, żeby wszystko wyglądało spójnie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0574",
+    "text": "Mimo że trasa była dobrze oznakowana, kilka razy musieliśmy zatrzymać się i sprawdzić mapę, żeby się upewnić.",
+    "source": "generated"
+  },
+  {
+    "id": "p0575",
+    "text": "Kiedy program w końcu przeszedł wszystkie testy, cały zespół świętował do późna w nocy, zamawiając pizzę do biura.",
+    "source": "generated"
+  },
+  {
+    "id": "p0576",
+    "text": "Po długim dniu spędzonym w podróży najbardziej marzyliśmy o ciepłym prysznicu i wygodnym łóżku w hotelu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0577",
+    "text": "Chociaż byliśmy zmęczeni po całodziennej wędrówce, widok zachodzącego słońca nad doliną wynagrodził nam cały ten wysiłek.",
+    "source": "generated"
+  },
+  {
+    "id": "p0578",
+    "text": "Kiedy tylko dzieci zobaczyły nowy plac zabaw, natychmiast pobiegły w jego stronę, zapominając o całej reszcie świata.",
+    "source": "generated"
+  },
+  {
+    "id": "p0579",
+    "text": "Mimo że nie mieliśmy zbyt wiele czasu, udało nam się jeszcze zajrzeć do tego małego, urokliwego miasteczka.",
+    "source": "generated"
+  },
+  {
+    "id": "p0580",
+    "text": "Kiedy tylko usłyszeliśmy pierwsze takty tej piosenki, wszyscy od razu zaczęli śpiewać ją razem na cały głos.",
+    "source": "generated"
+  },
+  {
+    "id": "p0581",
+    "text": "Chociaż drukarka pracowała całą noc, rano okazało się, że trzeba jeszcze poprawić kilka drobnych szczegółów modelu.",
+    "source": "generated"
+  },
+  {
+    "id": "p0582",
+    "text": "Kiedy w końcu udało nam się skalibrować wszystkie czujniki, symulacja pokazała dokładnie taki wynik, jakiego się spodziewaliśmy.",
+    "source": "generated"
+  },
+  {
+    "id": "p0583",
+    "text": "Po powrocie z wakacji najbardziej brakowało nam porannych spacerów na plaży, zanim jeszcze zrobiło się gorąco.",
+    "source": "generated"
+  },
+  {
+    "id": "p0584",
+    "text": "Mimo że most był zamknięty dla samochodów, piesi i rowerzyści wciąż mogli swobodnie przez niego przechodzić.",
+    "source": "generated"
+  },
+  {
+    "id": "p0585",
+    "text": "Kiedy tylko skończyliśmy sadzić warzywa, zaczęło padać, więc cała robota poszła nam wyjątkowo szybko i sprawnie.",
+    "source": "generated"
+  },
+  {
+    "id": "p0586",
+    "text": "Parametryczny kod generuje Claude.",
+    "source": "wiki"
+  },
+  {
+    "id": "p0587",
+    "text": "Jurek nie modeluje ręcznie.",
+    "source": "wiki"
+  },
+  {
+    "id": "p0588",
+    "text": "Druk trzy de zasila markę GSP oraz prototypy do projektów.",
+    "source": "wiki"
+  },
+  {
+    "id": "p0589",
+    "text": "F+ to faktyczny pułap, nie tylko cel.",
+    "source": "wiki"
+  },
+  {
+    "id": "p0590",
+    "text": "Recovery udało się jak dotąd w dwóch rakietach.",
+    "source": "wiki"
+  },
+  {
+    "id": "p0591",
+    "text": "Rakiety to rdzeń marki GSP.",
+    "source": "wiki"
+  },
+  {
+    "id": "p0592",
+    "text": "Nie komponuje, gra repertuar.",
+    "source": "wiki"
+  },
+  {
+    "id": "p0593",
+    "text": "Słucha najwięcej Michael Jackson, do tego Daft Punk, czasem inne.",
+    "source": "wiki"
+  }
+]

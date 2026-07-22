@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 212" width="310" height="212" role="img" aria-label="VoxG">
+  <title>VoxG</title>
+  <g fill="none" stroke="#000" stroke-width="15" stroke-linecap="butt" stroke-linejoin="round" transform="translate(0,11)">
+    <path d="M60 74 L96 172 L132 74"/>
+    <path d="M243 62 a50 50 0 1 0 0 56 V90 H200"/>
+  </g>
+</svg>

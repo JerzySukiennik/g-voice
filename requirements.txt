@@ -1,0 +1,14 @@
+# VoxG training dependencies (for Kaggle T4x2 — Kaggle ships its own recent
+# torch/numpy, so these are intentionally unpinned here, same as MicroG/Gedit's
+# top-level requirements.txt). For LOCAL work on the Intel MacBook, the pins in
+# runtime/requirements.txt matter (torch has no x86_64 macOS wheel past 2.2.2,
+# and numpy<2 avoids an ABI crash against that torch) — the same walls Gedit hit.
+#
+# espeak-ng is a SYSTEM package, not pip. Install it separately for real G2P:
+#   macOS:  brew install espeak-ng
+#   Linux:  apt-get install espeak-ng   (Kaggle's 01-prep.py does this)
+# Without it, G2P raises a clear error (or falls back for tests only).
+
+torch
+numpy
+phonemizer      # wraps espeak-ng for grapheme->phoneme (rule-based, not trained)

@@ -1,0 +1,27 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /progress/counter {
+      allow read: if true;
+      allow create: if request.resource.data.keys().hasOnly(['count'])
+        && request.resource.data.count == 0;
+      allow update: if request.resource.data.diff(resource.data).affectedKeys().hasOnly(['count'])
+        && request.resource.data.count == resource.data.count + 1;
+      allow delete: if false;
+    }
+    match /recordings/{recordingId} {
+      // Audio lives directly in the document as bytes (no Firebase Storage —
+      // Storage now requires the paid Blaze plan, which needs a billing account
+      // Jurek doesn't have; Firestore stays on the free Spark plan). Cap leaves
+      // headroom under Firestore's 1 MiB per-document hard limit.
+      allow create: if request.resource.data.keys().hasAll(['sentenceId','text','audio'])
+        && request.resource.data.text is string
+        && request.resource.data.text.size() < 500
+        && request.resource.data.audio is bytes
+        && request.resource.data.audio.size() < 950000;
+      allow read: if false;
+      allow update: if false;
+      allow delete: if false;
+    }
+  }
+}

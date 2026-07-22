@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1" />
+  <title>VoxG Recorder</title>
+
+  <meta name="theme-color" content="#0d0d0f" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="description" content="Narzędzie do nagrywania głosu dla modelu VoxG." />
+  <meta name="robots" content="noindex, nofollow" />
+
+  <!-- iOS home-screen install -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="VoxG" />
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png" />
+
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="counter" id="counter"><b>—</b> wysłanych</div>
+    <div class="brand">VoxG</div>
+  </header>
+
+  <!-- Permission / error gate -->
+  <main class="gate" id="gate" hidden>
+    <h1 id="gate-title">Potrzebny dostęp do mikrofonu</h1>
+    <p id="gate-text"></p>
+    <button class="btn btn-solid" id="gate-retry" style="max-width:280px">Spróbuj ponownie</button>
+  </main>
+
+  <!-- Recording stage -->
+  <main id="stage" hidden>
+    <p class="sentence">
+      <span id="sentence"></span>
+      <span class="sentence-id" id="sentence-id"></span>
+    </p>
+
+    <!-- idle / recording controls -->
+    <div class="stage-controls" id="idle-controls">
+      <button class="rec-btn" id="rec-btn" aria-label="Nagrywaj">
+        <span class="dot"></span>
+      </button>
+      <div class="timer" id="timer"></div>
+      <div class="hint" id="hint">Dotknij, aby nagrać</div>
+    </div>
+
+    <!-- review controls -->
+    <div class="review" id="review" hidden>
+      <audio id="player" controls playsinline preload="metadata"></audio>
+      <div class="review-actions">
+        <button class="btn btn-ghost" id="redo">Powtórz</button>
+        <button class="btn btn-solid" id="send">Wyślij</button>
+      </div>
+    </div>
+
+    <p class="msg" id="msg"></p>
+  </main>
+
+  <p class="footer">VoxG · dane głosowe · nagrywaj kiedy chcesz, zamykaj kiedy chcesz</p>
+
+  <!-- Milestone banner -->
+  <div class="banner" id="banner" hidden>
+    <p><b>Etap 1 osiągnięty — 3000 nagrań.</b> Dalej pomaga, ale to już solidna baza.</p>
+    <button id="banner-close" aria-label="Zamknij">OK</button>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
