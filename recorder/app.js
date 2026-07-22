@@ -281,13 +281,16 @@ async function startRecording() {
 
   const { type, ext } = chooseMime();
   takeExt = ext;
-  // Explicit low bitrate keeps takes small & predictable so they fit inside a
-  // single Firestore document's bytes field (~950KB cap). Some browsers reject
-  // the audioBitsPerSecond option combo, so fall back progressively.
+  // Explicit bitrate keeps takes predictable across browsers/codecs. 192kbps
+  // is comfortably high quality for speech (this used to be capped at a much
+  // lower 32kbps out of an over-cautious reading of the Firestore size cap —
+  // these are single short sentences, not long sessions, so there's actually
+  // huge headroom: even a generous 20s take at 192kbps is ~480KB, well under
+  // the 900KB client guard / 950KB Firestore rule cap below).
   try {
     recorder = type
-      ? new MediaRecorder(stream, { mimeType: type, audioBitsPerSecond: 32000 })
-      : new MediaRecorder(stream, { audioBitsPerSecond: 32000 });
+      ? new MediaRecorder(stream, { mimeType: type, audioBitsPerSecond: 192000 })
+      : new MediaRecorder(stream, { audioBitsPerSecond: 192000 });
   } catch {
     try {
       recorder = type ? new MediaRecorder(stream, { mimeType: type }) : new MediaRecorder(stream);

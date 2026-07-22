@@ -70,9 +70,12 @@ the picture entirely** — no bucket, no `storage.rules`, no `firebase-storage.j
 Instead each recording's audio is stored **directly inside its Firestore document**
 as a native `bytes` field. Firestore's free **Spark** plan needs no billing, ever,
 and its **1 MiB per-document limit** is generously larger than a short spoken
-sentence recorded at a deliberately low **32 kbps** bitrate (typically tens of KB).
-The client caps a take at ~900 KB before review and refuses oversized takes with a
-"nagraj krócej" message, keeping every write comfortably under the 950 KB rule cap.
+sentence — even at a healthy **192 kbps** (well above the low-32kbps first cut,
+which sounded bad, especially on iOS's AAC encoder), a generous 20-second take is
+only ~480 KB. The client caps a take at ~900 KB before review and refuses oversized
+takes with a "nagraj krócej" message, keeping every write comfortably under the
+950 KB rule cap — there was never actually a reason to compress this hard, the
+per-document cap applies per short sentence, not per session.
 
 ## Firebase data model
 
