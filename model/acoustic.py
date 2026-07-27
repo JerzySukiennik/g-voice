@@ -211,7 +211,7 @@ def length_regulate(x, durations, max_out_len=None):
 # The acoustic model
 # ---------------------------------------------------------------------------
 
-class G-VoiceAcoustic(nn.Module):
+class GVoiceAcoustic(nn.Module):
 
     def __init__(self, cfg: AcousticConfig):
         super().__init__()
@@ -374,8 +374,8 @@ def acoustic_loss(out, mel_target, durations, phon_mask,
 if __name__ == "__main__":
     torch.manual_seed(0)
     cfg = AcousticConfig()
-    model = G-VoiceAcoustic(cfg)
-    print(f"G-VoiceAcoustic params: {model.num_params()/1e6:.2f}M "
+    model = GVoiceAcoustic(cfg)
+    print(f"GVoiceAcoustic params: {model.num_params()/1e6:.2f}M "
           f"(target 15-30M)")
 
     B, T = 2, 12

@@ -29,7 +29,7 @@ import sys
 import torch
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-from model.acoustic import G-VoiceAcoustic, AcousticConfig
+from model.acoustic import GVoiceAcoustic, AcousticConfig
 from model.vocoder import Generator, VocoderConfig
 
 
@@ -101,12 +101,12 @@ def main(args):
     if args.ckpt_acoustic:
         ck = torch.load(args.ckpt_acoustic, map_location="cpu")
         cfg = AcousticConfig(**ck["config"]) if "config" in ck else AcousticConfig(n_phonemes=args.n_phonemes)
-        acoustic = G-VoiceAcoustic(cfg)
+        acoustic = GVoiceAcoustic(cfg)
         acoustic.load_state_dict(ck["model"])
         print(f"loaded acoustic checkpoint at step {ck.get('step', '?')}")
     else:
         cfg = AcousticConfig(n_phonemes=args.n_phonemes)
-        acoustic = G-VoiceAcoustic(cfg)
+        acoustic = GVoiceAcoustic(cfg)
         print("no acoustic checkpoint — exporting a randomly-initialised model (--dummy)")
     acoustic.eval()
     wrapper = _AcousticExportWrapper(acoustic)
