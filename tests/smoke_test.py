@@ -1,4 +1,4 @@
-"""End-to-end smoke test for the VoxG pipeline on synthetic data.
+"""End-to-end smoke test for the G-Voice pipeline on synthetic data.
 
 This is the cross-module test the individual `if __name__ == "__main__"` blocks
 can't cover: it drives the *real* prepare_dataset + train scripts (via
@@ -8,7 +8,7 @@ training checkpoints and then **resumes on a continuous loss curve** instead of
 silently restarting from random init.
 
 Same validation philosophy as the siblings: prove the plumbing on fake data
-before spending GPU-hours on real data (this caught bugs in both MicroG and
+before spending GPU-hours on real data (this caught bugs in both G-Micro and
 Gedit before Kaggle ever ran).
 
 Run:  .venv/bin/python tests/smoke_test.py
@@ -90,14 +90,14 @@ def parse_losses(stdout, key="loss"):
 
 
 def main():
-    root = tempfile.mkdtemp(prefix="voxg_smoke_")
+    root = tempfile.mkdtemp(prefix="g-voice_smoke_")
     print(f"workdir: {root}")
     ok = True
     try:
         # ---- 1. synthetic data + prepare_dataset --------------------------
         print("\n[1] prepare_dataset on synthetic WAVs")
         wav_dir, manifest = make_synthetic_dataset(root)
-        prefix = os.path.join(root, "voxg")
+        prefix = os.path.join(root, "g-voice")
         out = run([PY, "data/prepare_dataset.py", "--wav-dir", wav_dir,
                    "--manifest", manifest, "--out", prefix,
                    "--allow-g2p-fallback", "--val-n", "2"])

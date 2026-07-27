@@ -1,4 +1,4 @@
-"""VoxG vocoder — a from-scratch, HiFi-GAN-style neural vocoder that turns a
+"""G-Voice vocoder — a from-scratch, HiFi-GAN-style neural vocoder that turns a
 mel-spectrogram into a raw waveform.
 
 Why a second net at all? The acoustic model stops at the mel-spectrogram — a
@@ -6,7 +6,7 @@ compact, smooth picture of *which frequencies are loud when*. It is not audio:
 it has thrown away the phase, and it is at frame rate (~86/sec), not sample rate
 (22050/sec). Recovering a natural-sounding waveform from a mel is itself a
 learned problem, and training it jointly with the acoustic model is unstable, so
-TTS universally trains the two separately (see README). This is VoxG's second
+TTS universally trains the two separately (see README). This is G-Voice's second
 from-scratch-trained network, in the same spirit as the acoustic model.
 
 HiFi-GAN in one paragraph: a fully-convolutional **generator** upsamples the mel

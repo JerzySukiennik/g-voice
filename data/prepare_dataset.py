@@ -1,4 +1,4 @@
-"""Build VoxG's training binaries from a folder of recordings + transcripts.
+"""Build G-Voice's training binaries from a folder of recordings + transcripts.
 
 Eventually the input is Jurek's own voice: the recorder PWA (../recorder, built
 by a sibling agent) writes each take to Firebase Storage (webm/opus) with its
@@ -24,7 +24,7 @@ Real recordings arrive as webm/opus. Transcode them to WAV first, e.g.
 (the resampler here will handle a different input rate too, but ffmpeg's is
 better — see model/audio.resample_linear).
 
-Output (mirrors MicroG's pl_train.bin / Gedit's *_images.bin: raw mmap-able
+Output (mirrors G-Micro's pl_train.bin / Gedit's *_images.bin: raw mmap-able
 binaries + a JSON index, so Kaggle-side loading is a slice, not a re-parse):
     <out>_audio.bin    float32  all waveforms concatenated (for the vocoder)
     <out>_mel.bin      float32  all log-mels concatenated, row = frame (acoustic)
@@ -308,7 +308,7 @@ if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--wav-dir", required=True, help="folder of PCM WAV files")
     p.add_argument("--manifest", required=True, help="JSON list or pipe-CSV filename|text")
-    p.add_argument("--out", default="./voxg", help="output prefix")
+    p.add_argument("--out", default="./g-voice", help="output prefix")
     p.add_argument("--val-n", type=int, default=64, help="max held-out utterances")
     p.add_argument("--allow-g2p-fallback", action="store_true",
                    help="TEST ONLY: use char fallback if espeak-ng is missing")

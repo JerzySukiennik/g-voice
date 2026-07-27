@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="VoxG">
-  <title>VoxG</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="G-Voice">
+  <title>G-Voice</title>
   <!--
-    macOS/PWA app icon, same recipe as microg-icon.svg / gedit-icon.svg: rounded
+    macOS/PWA app icon, same recipe as g-micro-icon.svg / gedit-icon.svg: rounded
     square drawn in (icns/PWA icons are not auto-masked), 824x824 content box
     inside 1024, same translate/scale as the siblings because the glyph
     bounding box is identical (V occupies the same x60-132 / y74-172 box mu

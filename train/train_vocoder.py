@@ -1,4 +1,4 @@
-"""Train the VoxG vocoder (mel -> waveform), HiFi-GAN style.
+"""Train the G-Voice vocoder (mel -> waveform), HiFi-GAN style.
 
 A GAN, so two optimisers: one for the generator, one for the combined
 discriminators (MPD + MSD). Each step:

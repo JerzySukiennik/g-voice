@@ -1,6 +1,6 @@
-"""Train the VoxG acoustic model (phonemes -> mel).
+"""Train the G-Voice acoustic model (phonemes -> mel).
 
-Mirrors MicroG/Gedit training conventions exactly: gradient accumulation,
+Mirrors G-Micro/Gedit training conventions exactly: gradient accumulation,
 DataParallel across Kaggle's T4x2, and checkpoint/resume every --ckpt-every
 steps so a 12h-capped (or randomly killed) Kaggle session picks up mid-stride
 instead of restarting hours of work. The "skip if already done, resume if a
@@ -22,7 +22,7 @@ import torch
 from torch.utils.data import DataLoader
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-from model.acoustic import VoxGAcoustic, AcousticConfig, acoustic_loss
+from model.acoustic import G-VoiceAcoustic, AcousticConfig, acoustic_loss
 from data.dataset import AcousticDataset, acoustic_collate
 
 
@@ -60,8 +60,8 @@ def main(args):
     val_loader = DataLoader(val_ds, batch_size=args.batch_size, shuffle=False,
                             collate_fn=collate) if len(val_ds) else None
 
-    model = VoxGAcoustic(cfg).to(device)
-    print(f"VoxGAcoustic params: {model.num_params()/1e6:.2f}M")
+    model = G-VoiceAcoustic(cfg).to(device)
+    print(f"G-VoiceAcoustic params: {model.num_params()/1e6:.2f}M")
     if torch.cuda.device_count() > 1 and not args.single_gpu:
         model = torch.nn.DataParallel(model)
         print(f"DataParallel across {torch.cuda.device_count()} GPUs")

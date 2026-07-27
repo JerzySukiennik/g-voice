@@ -1,4 +1,4 @@
-# VoxG corpus — Polish TTS voice-cloning recording set
+# G-Voice corpus — Polish TTS voice-cloning recording set
 
 `corpus.json` — 593 sentences total to be read aloud one at a time and recorded.
 

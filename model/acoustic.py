@@ -1,8 +1,8 @@
-"""VoxG acoustic model — a from-scratch, non-autoregressive FastSpeech2-style
+"""G-Voice acoustic model — a from-scratch, non-autoregressive FastSpeech2-style
 transformer that maps a phoneme sequence to a mel-spectrogram.
 
-This is the part of VoxG where "built from scratch" matters most (same role
-MicroG's hand-rolled Llama-mini and Gedit's hand-rolled U-Net play in their
+This is the part of G-Voice where "built from scratch" matters most (same role
+G-Micro's hand-rolled Llama-mini and Gedit's hand-rolled U-Net play in their
 repos), so the code is written to be *read*: every block is a plain transformer
 layer, and the one idea that makes TTS non-autoregressive — length regulation —
 is spelled out explicitly.
@@ -89,7 +89,7 @@ def sinusoidal_pos_encoding(length: int, dim: int, device, dtype) -> torch.Tenso
 class TransformerBlock(nn.Module):
     """Multi-head self-attention + FFN, pre-normalised, residual.
 
-    Unlike MicroG this attention is NOT causal: TTS reads the whole phoneme
+    Unlike G-Micro this attention is NOT causal: TTS reads the whole phoneme
     sequence (and later the whole frame sequence) at once, so every position may
     attend to every other. The only masking is padding — batched utterances have
     different lengths, and a query must not attend to a neighbour's pad slots.
@@ -211,7 +211,7 @@ def length_regulate(x, durations, max_out_len=None):
 # The acoustic model
 # ---------------------------------------------------------------------------
 
-class VoxGAcoustic(nn.Module):
+class G-VoiceAcoustic(nn.Module):
 
     def __init__(self, cfg: AcousticConfig):
         super().__init__()
@@ -374,8 +374,8 @@ def acoustic_loss(out, mel_target, durations, phon_mask,
 if __name__ == "__main__":
     torch.manual_seed(0)
     cfg = AcousticConfig()
-    model = VoxGAcoustic(cfg)
-    print(f"VoxGAcoustic params: {model.num_params()/1e6:.2f}M "
+    model = G-VoiceAcoustic(cfg)
+    print(f"G-VoiceAcoustic params: {model.num_params()/1e6:.2f}M "
           f"(target 15-30M)")
 
     B, T = 2, 12

@@ -1,7 +1,7 @@
-"""Audio front-end for VoxG — waveform <-> mel-spectrogram.
+"""Audio front-end for G-Voice — waveform <-> mel-spectrogram.
 
 Both models in the family precompute their conditioning once and mmap it (see
-MicroG's pl_train.bin, Gedit's *_images.bin). Here the mel-spectrogram is that
+G-Micro's pl_train.bin, Gedit's *_images.bin). Here the mel-spectrogram is that
 conditioning: the acoustic model *predicts* mels, the vocoder *consumes* them,
 so the exact same transform has to live in one place or the two nets end up
 speaking slightly different dialects and never line up.
@@ -203,7 +203,7 @@ if __name__ == "__main__":
 
     # WAV round trip
     import tempfile, os
-    tmp = os.path.join(tempfile.gettempdir(), "voxg_audio_smoke.wav")
+    tmp = os.path.join(tempfile.gettempdir(), "g-voice_audio_smoke.wav")
     save_wav(tmp, tone, cfg.sample_rate)
     back, sr = load_wav(tmp)
     err = np.abs(back[:len(tone)] - tone).max()

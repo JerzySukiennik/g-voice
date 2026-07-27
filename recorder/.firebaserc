@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "voxg-recorder"
+    "default": "g-voice-recorder"
   },
   "targets": {},
   "etags": {}

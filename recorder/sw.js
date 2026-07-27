@@ -1,8 +1,8 @@
-/* VoxG Recorder — offline app-shell service worker.
+/* G-Voice Recorder — offline app-shell service worker.
    Caches the shell + corpus.json + the Firebase CDN modules so the app boots
    with no signal. Firestore/Storage API traffic is never cached (dynamic).   */
 
-const CACHE = "voxg-shell-v1";
+const CACHE = "g-voice-shell-v1";
 
 const SHELL = [
   "./nagrywaj.html",

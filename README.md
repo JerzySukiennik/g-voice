@@ -1,10 +1,10 @@
-# VoxG
+# G-Voice
 
 Czwarty model w rodzinie [Gzowo AI](https://github.com/JerzySukiennik) — a
 from-scratch, single-speaker **Polish text-to-speech** model, trained by
-[Jurek](https://github.com/JerzySukiennik). Rodzeństwo: [MicroG](https://github.com/JerzySukiennik/microg)
+[Jurek](https://github.com/JerzySukiennik). Rodzeństwo: [G-Micro](https://github.com/JerzySukiennik/g-micro)
 (LLM 117M od zera), [Gedit](https://github.com/JerzySukiennik/gedit) (dyfuzja do
-edycji zdjęć). "Vox" (głos) + "G" (Gzowo, ten sam rdzeń co MicroG / Gedit).
+edycji zdjęć). "Vox" (głos) + "G" (Gzowo, ten sam rdzeń co G-Micro / Gedit).
 
 Cel docelowy: **klon głosu Jurka** — model mówiący jego głosem po polsku. Głos
 zbierany jest osobno przez PWA-nagrywarkę (`recorder/`, robi ją drugi agent),
@@ -33,7 +33,7 @@ tekst ──► [G2P: espeak-ng] ──► fonemy ──► [model akustyczny] �
    `phonemizer`). To deterministyczny silnik reguł, **nie** komponent uczony —
    świadomy wyjątek od reguły "wszystko od zera", mniejszy niż zamrożony CLIP w
    Gedit (CLIP to przynajmniej sieć; espeak to ręcznie pisane reguły wymowy).
-   To, czego VoxG faktycznie się uczy — jak fonemy stają się głosem Jurka — jest
+   To, czego G-Voice faktycznie się uczy — jak fonemy stają się głosem Jurka — jest
    przez to nietknięte. espeak-ng to pakiet **systemowy**: `brew install espeak-ng`
    (macOS) / `apt-get install espeak-ng` (Linux). Bez niego G2P rzuca jasny błąd.
 
@@ -57,7 +57,7 @@ tekst ──► [G2P: espeak-ng] ──► fonemy ──► [model akustyczny] �
 - `data/prepare_dataset.py` — nagrania + transkrypcje → spakowane binaria
   (mel, fonemy, duracje, pitch, energia); `data/dataset.py` — loadery mmap
 - `train/train_acoustic.py`, `train/train_vocoder.py` — pętle treningowe
-  (grad-accum, DataParallel na T4×2, checkpoint/resume — jak MicroG/Gedit)
+  (grad-accum, DataParallel na T4×2, checkpoint/resume — jak G-Micro/Gedit)
 - `kaggle/` — komórki notebooków + `README.md` do treningu na darmowym Kaggle T4×2
 - `runtime/export_onnx.py` — eksport do ONNX (scaffold, integracja z mostkiem
   Node w Gzowo AI to przyszła praca)

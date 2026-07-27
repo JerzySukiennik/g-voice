@@ -1,7 +1,7 @@
-"""Phoneme vocabulary for VoxG.
+"""Phoneme vocabulary for G-Voice.
 
 The acoustic model doesn't see letters or IPA strings — it sees integer ids.
-This is the equivalent of MicroG's BPE tokenizer, but far smaller and much
+This is the equivalent of G-Micro's BPE tokenizer, but far smaller and much
 simpler: Polish, run through espeak-ng, produces a small closed set of IPA
 phoneme symbols (a few dozen), so there is no need to *learn* a vocabulary the
 way a subword tokenizer does. We just collect every distinct symbol that
@@ -14,7 +14,7 @@ Four ids are reserved before any real phoneme:
     3  EOS   end of utterance
 
 The vocab is built once during data preparation and saved as JSON next to the
-packed binaries (mirroring how MicroG ships data/tokenizer.json with its
+packed binaries (mirroring how G-Micro ships data/tokenizer.json with its
 dataset), so training and inference always agree on the id<->symbol mapping.
 """
 
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     print(f"decode back -> {dec}")
 
     import tempfile, os
-    p = os.path.join(tempfile.gettempdir(), "voxg_vocab_smoke.json")
+    p = os.path.join(tempfile.gettempdir(), "g-voice_vocab_smoke.json")
     v.save(p)
     v2 = PhonemeVocab.load(p)
     assert v2.stoi == v.stoi, "save/load changed the mapping!"

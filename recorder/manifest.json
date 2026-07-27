@@ -1,7 +1,7 @@
 {
-  "name": "VoxG Recorder",
-  "short_name": "VoxG",
-  "description": "Narzędzie do nagrywania głosu dla modelu VoxG.",
+  "name": "G-Voice Recorder",
+  "short_name": "G-Voice",
+  "description": "Narzędzie do nagrywania głosu dla modelu G-Voice.",
   "lang": "pl",
   "start_url": "./nagrywaj.html",
   "scope": "./",

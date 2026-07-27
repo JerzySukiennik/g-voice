@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 212" width="310" height="212" role="img" aria-label="VoxG">
-  <title>VoxG</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 212" width="310" height="212" role="img" aria-label="G-Voice">
+  <title>G-Voice</title>
   <!--
-    Construction grid — identical skeleton to microg-mark.svg / gedit-mark.svg,
+    Construction grid — identical skeleton to g-micro-mark.svg / gedit-mark.svg,
     so all three marks read as one family:
       stroke weight  15   identical for every glyph, every model
       baseline      140   V's foot and G's foot share it
-      x-height top   74   V's top edge (same y as mu's top in MicroG)
+      x-height top   74   V's top edge (same y as mu's top in G-Micro)
       descender     172   V's bottom vertex (same y as mu's descender)
-      G centre  200,90    radius 50 — untouched, literally the same path as MicroG/Gedit
+      G centre  200,90    radius 50 — untouched, literally the same path as G-Micro/Gedit
     Left glyph is a plain V (voice) instead of a letter-substitute icon: two
     strokes meeting at a point. It occupies the exact same bounding box as mu
     and the crop-mark (x 60-132, y 74-172) on purpose, so the trio sits at the

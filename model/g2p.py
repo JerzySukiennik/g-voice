@@ -1,11 +1,11 @@
 """Grapheme-to-phoneme for Polish.
 
-VoxG converts text to phonemes with **espeak-ng** (via the `phonemizer`
+G-Voice converts text to phonemes with **espeak-ng** (via the `phonemizer`
 package), used as a deterministic linguistic rule engine — NOT a learned
 component. This is a conscious, discussed exception to the family's
 "everything trained from scratch" rule, and a smaller one than Gedit's frozen
 CLIP: CLIP is at least a neural net (used as-is, never trained); espeak-ng is
-hand-written pronunciation rules, not a model at all. The thing VoxG actually
+hand-written pronunciation rules, not a model at all. The thing G-Voice actually
 learns — how Jurek's voice turns phonemes into sound — is untouched by it.
 
 Interface is intentionally tiny and testable:
@@ -50,7 +50,7 @@ def _get_backend():
     except ImportError as e:
         raise G2PUnavailable(f"phonemizer not importable: {e}\n{_INSTALL_HINT}") from e
     try:
-        # with_stress=False: VoxG models phoneme durations, not lexical stress
+        # with_stress=False: G-Voice models phoneme durations, not lexical stress
         # markers, in v1 — keeping the symbol set small. preserve_punctuation so
         # commas/full stops survive as prosodic boundaries.
         _backend = EspeakBackend(

@@ -8,7 +8,7 @@ Two views on the same packed files, one per training stage:
   trains on short random windows, never whole clips, so batches are uniform and
   a long recording doesn't blow up memory.
 
-Everything is mmap'd (np.memmap), same reason MicroG/Gedit mmap their bins: the
+Everything is mmap'd (np.memmap), same reason G-Micro/Gedit mmap their bins: the
 OS pages in only the slice a batch touches, so start-up is instant and RAM stays
 flat no matter how many hours of audio pile up.
 """

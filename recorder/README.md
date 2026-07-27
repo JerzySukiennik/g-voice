@@ -1,9 +1,9 @@
-# VoxG Recorder
+# G-Voice Recorder
 
-Voice-data collection tool for **VoxG** — the from-scratch, single-speaker Polish
-TTS model (4th in the Gzowo AI family, after MicroG and Gedit). This little PWA is
+Voice-data collection tool for **G-Voice** — the from-scratch, single-speaker Polish
+TTS model (4th in the Gzowo AI family, after G-Micro and Gedit). This little PWA is
 how Jurek records his own voice, sentence by sentence, over weeks/months. Those
-recordings become VoxG's training corpus.
+recordings become G-Voice's training corpus.
 
 Plain HTML/CSS/JS, no build step, Firebase loaded from CDN as ES modules — same
 philosophy as the rest of the family.
@@ -21,7 +21,7 @@ https://<host>/recorder/nagrywaj.html
 ```
 
 On the iPhone: open that URL in Safari → Share → **Add to Home Screen**. It installs
-as a standalone PWA ("VoxG") with the dark VG icon, no browser chrome.
+as a standalone PWA ("G-Voice") with the dark VG icon, no browser chrome.
 
 ## Target device
 
@@ -97,7 +97,7 @@ per-document cap applies per short sentence, not per session.
 | `sw.js` | offline app-shell service worker |
 | `corpus.json` | sentence list (owned by a separate step; fetched at runtime) |
 | `firebase.json`, `.firebaserc`, `firestore.rules`, `firestore.indexes.json` | Firebase config (final, do not edit) |
-| `icons/` | VoxG app icon (final) |
+| `icons/` | G-Voice app icon (final) |
 
 ## Notes on the recording format
 
@@ -105,6 +105,6 @@ MediaRecorder support differs by browser. Desktop Chrome records `audio/webm;opu
 **Safari iOS records `audio/mp4`** (it has no webm/opus support). The app detects the
 supported type at runtime and tracks the extension accordingly (`.webm` / `.m4a`),
 so it produces valid audio on the actual iPhone target. The raw bytes are embedded
-in the Firestore doc regardless of container. VoxG's training pipeline should expect
+in the Firestore doc regardless of container. G-Voice's training pipeline should expect
 a mix of container/codec (webm/opus from desktop tests, mp4/aac from the phone) and
 transcode to a common format (e.g. 16 kHz mono WAV) at preprocessing time.

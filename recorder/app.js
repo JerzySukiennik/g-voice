@@ -1,4 +1,4 @@
-/* VoxG Recorder — voice-data collection tool for the VoxG TTS model.
+/* G-Voice Recorder — voice-data collection tool for the G-Voice TTS model.
    Plain ES module, no build step. Firebase loaded lazily via CDN so the app
    still boots (and can record + queue) when offline or when Firebase is down. */
 
@@ -6,20 +6,20 @@ const FB_VERSION = "10.12.2";
 const FB = (m) => `https://www.gstatic.com/firebasejs/${FB_VERSION}/firebase-${m}.js`;
 
 const firebaseConfig = {
-  projectId: "voxg-recorder",
+  projectId: "g-voice-recorder",
   appId: "1:361358543792:web:03960191697d9ae9bfa475",
-  storageBucket: "voxg-recorder.firebasestorage.app",
+  storageBucket: "g-voice-recorder.firebasestorage.app",
   apiKey: "AIzaSyC-AbxkV2NXDyo17hsAm69nF_Zv1rlak0s",
-  authDomain: "voxg-recorder.firebaseapp.com",
+  authDomain: "g-voice-recorder.firebaseapp.com",
   messagingSenderId: "361358543792",
 };
 
 /* ----------------------------------------------------------------------------
    localStorage keys
 ---------------------------------------------------------------------------- */
-const LS_RECORDED = "voxg_recorded_ids";   // ids recorded on THIS device (repeat-avoidance)
-const LS_CONFIRMED = "voxg_confirmed";      // last known server counter (offline display)
-const LS_MILESTONE = "voxg_milestone_3000"; // "1" once the 3000 banner was dismissed
+const LS_RECORDED = "g-voice_recorded_ids";   // ids recorded on THIS device (repeat-avoidance)
+const LS_CONFIRMED = "g-voice_confirmed";      // last known server counter (offline display)
+const LS_MILESTONE = "g-voice_milestone_3000"; // "1" once the 3000 banner was dismissed
 const MILESTONE = 3000;
 
 /* ----------------------------------------------------------------------------
@@ -53,7 +53,7 @@ async function loadFirebase() {
 /* ----------------------------------------------------------------------------
    IndexedDB pending-upload queue  (the reliability core: never lose a take)
 ---------------------------------------------------------------------------- */
-const DB_NAME = "voxg";
+const DB_NAME = "g-voice";
 const STORE = "queue";
 let _idb = null;
 

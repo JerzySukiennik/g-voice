@@ -1,9 +1,9 @@
-"""Export trained VoxG checkpoints to ONNX, for eventual inference in Gzowo AI's
+"""Export trained G-Voice checkpoints to ONNX, for eventual inference in Gzowo AI's
 Node bridge via onnxruntime-node — same pattern as Gedit's runtime/export_onnx.py.
 
-Two graphs are exported (the two nets VoxG actually *trains* from scratch):
-    voxg_acoustic.onnx   phoneme ids -> mel-spectrogram
-    voxg_vocoder.onnx    mel-spectrogram -> waveform
+Two graphs are exported (the two nets G-Voice actually *trains* from scratch):
+    g-voice_acoustic.onnx   phoneme ids -> mel-spectrogram
+    g-voice_vocoder.onnx    mel-spectrogram -> waveform
 
 espeak-ng is NOT in either graph — text->phoneme stays a rule-based text step
 outside the model (the Node side shells out to espeak-ng, or ships its phoneme
@@ -29,7 +29,7 @@ import sys
 import torch
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-from model.acoustic import VoxGAcoustic, AcousticConfig
+from model.acoustic import G-VoiceAcoustic, AcousticConfig
 from model.vocoder import Generator, VocoderConfig
 
 
@@ -101,12 +101,12 @@ def main(args):
     if args.ckpt_acoustic:
         ck = torch.load(args.ckpt_acoustic, map_location="cpu")
         cfg = AcousticConfig(**ck["config"]) if "config" in ck else AcousticConfig(n_phonemes=args.n_phonemes)
-        acoustic = VoxGAcoustic(cfg)
+        acoustic = G-VoiceAcoustic(cfg)
         acoustic.load_state_dict(ck["model"])
         print(f"loaded acoustic checkpoint at step {ck.get('step', '?')}")
     else:
         cfg = AcousticConfig(n_phonemes=args.n_phonemes)
-        acoustic = VoxGAcoustic(cfg)
+        acoustic = G-VoiceAcoustic(cfg)
         print("no acoustic checkpoint — exporting a randomly-initialised model (--dummy)")
     acoustic.eval()
     wrapper = _AcousticExportWrapper(acoustic)
@@ -144,8 +144,8 @@ if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--ckpt-acoustic", help="acoustic ckpt.pt (omit for dummy export)")
     p.add_argument("--ckpt-vocoder", help="vocoder ckpt.pt (omit for dummy export)")
-    p.add_argument("--out-acoustic", default="./voxg_acoustic.onnx")
-    p.add_argument("--out-vocoder", default="./voxg_vocoder.onnx")
+    p.add_argument("--out-acoustic", default="./g-voice_acoustic.onnx")
+    p.add_argument("--out-vocoder", default="./g-voice_vocoder.onnx")
     p.add_argument("--n-phonemes", type=int, default=80,
                    help="only used for a dummy export with no checkpoint")
     p.add_argument("--dummy", action="store_true", help="(default when no ckpt given)")
